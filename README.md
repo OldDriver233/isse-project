@@ -1,4 +1,7 @@
 git init 
+
 git branch -M main
+
 git remote add origin git@github.com:OldDriver233/isse-project.git
-git push --set-upstream origin main
+
+git pull
