@@ -1,7 +1,5 @@
-git init 
+# Conversation
 
-git branch -M main
+## Contribution guide
 
-git remote add origin git@github.com:OldDriver233/isse-project.git
-
-git pull
+- Upload Dockerfile along with your code
