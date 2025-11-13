@@ -6,7 +6,7 @@ build_index.py
     将其分块、向量化嵌入，并上传至 Pinecone 向量数据库。
 
 执行：
-    python ai/build_index.py    
+    python ai/build_index.py
 
 运行前提：
     - 需先在 ai/.env 中配置 API 密钥。
@@ -25,6 +25,7 @@ load_dotenv(dotenv_path="ai/.env")
 
 INDEX_NAME = "sociology-master"
 DATA_ROOT = "data"
+
 
 def main():
     """主函数：构建 Pinecone 索引并上传文本数据"""
@@ -45,7 +46,12 @@ def main():
 
     # 创建新索引
     if INDEX_NAME not in pc.list_indexes().names():
-        pc.create_index(name=INDEX_NAME, dimension=768, metric="cosine", spec=ServerlessSpec(cloud="aws", region="us-east-1"))
+        pc.create_index(
+            name=INDEX_NAME,
+            dimension=768,
+            metric="cosine",
+            spec=ServerlessSpec(cloud="aws", region="us-east-1")
+        )
 
     embeddings = GoogleGenerativeAIEmbeddings(
         model="text-embedding-004",
@@ -60,14 +66,14 @@ def main():
     for root, _, files in os.walk(DATA_ROOT):
         # 只有当 root 不等于 DATA_ROOT 根目录时（即在子文件夹内）才定义 namespace
         if root == DATA_ROOT:
-            NAMESPACE_NAME = "common" # 根目录下的文件视为 'common' namespace
+            NAMESPACE_NAME = "common"  # 根目录下的文件视为 'common' namespace
         else:
             # 提取子文件夹的名称作为 namespace
             NAMESPACE_NAME = os.path.basename(root)
 
         # 遍历当前子文件夹下的所有文件
         for file_name in files:
-            if file_name.endswith(".txt"): # 仅处理 .txt 文件
+            if file_name.endswith(".txt"):  # 仅处理 .txt 文件
                 file_path = os.path.join(root, file_name)
 
                 try:
@@ -77,21 +83,22 @@ def main():
 
                     # 分割文本
                     docs = splitter.split_text(text)
-                    
+
                     # 写入向量数据库
                     PineconeVectorStore.from_texts(
-                        docs, 
-                        embeddings, 
+                        docs,
+                        embeddings,
                         index_name=INDEX_NAME,
                         namespace=NAMESPACE_NAME
                     )
-                    
+
                     print(f"文件 '{file_path}' (Namespace: {NAMESPACE_NAME}) 已成功载入。")
 
                 except FileNotFoundError:
                     print(f"警告：未找到文件 '{file_path}'。")
                 except Exception as e:
                     print(f"处理文件 '{file_path}' 时发生错误: {e}")
+
 
 if __name__ == "__main__":
     main()
