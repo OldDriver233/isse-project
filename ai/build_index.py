@@ -58,7 +58,8 @@ def main():
         client_options={"api_key": os.getenv("GEMINI_API_KEY")},
         transport='rest'
     )
-    splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+    splitter = RecursiveCharacterTextSplitter(chunk_size=1000,
+                                              chunk_overlap=200)
 
     print(f"开始遍历 '{DATA_ROOT}' 文件夹并载入到 Pinecone 索引: {INDEX_NAME}")
 
@@ -92,7 +93,7 @@ def main():
                         namespace=NAMESPACE_NAME
                     )
 
-                    print(f"文件 '{file_path}' (Namespace: {NAMESPACE_NAME}) 已成功载入。")
+                    print(f"文件 '{file_path}' (Namespace: {NAMESPACE_NAME}) 已成功载入。")  # noqa: E501
 
                 except FileNotFoundError:
                     print(f"警告：未找到文件 '{file_path}'。")

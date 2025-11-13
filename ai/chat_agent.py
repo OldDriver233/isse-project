@@ -24,8 +24,10 @@ from langchain_core.prompts import ChatPromptTemplate
 from pinecone import Pinecone
 
 INDEX_NAME = "sociology-master"
-DEFAULT_NAMESPACE = "common"  # 默认 Namespace，当路由失败时使用
-AVAILABLE_NAMESPACES = ["tocqueville", "common"]  # 可用的 Namespace 列表，确保与 'data/' 文件夹下的子文件夹名称一致
+# 默认 Namespace，当路由失败时使用
+DEFAULT_NAMESPACE = "common"
+# 可用的 Namespace 列表，确保与 'data/' 文件夹下的子文件夹名称一致
+AVAILABLE_NAMESPACES = ["tocqueville", "common"]
 
 # 用于 Namespace 路由的提示
 ROUTER_PROMPT_TEMPLATE = """
@@ -52,7 +54,7 @@ def initialize_components():
 
         # 检查索引是否存在且就绪
         if INDEX_NAME not in pc.list_indexes().names():
-            print(f"致命错误: Pinecone 索引 '{INDEX_NAME}' 不存在或未就绪。请先运行 build_index.py。")
+            print(f"致命错误: Pinecone 索引 '{INDEX_NAME}' 不存在或未就绪。请先运行 build_index.py。")  # noqa: E501
             return None, None, None
 
         # 初始化 Embeddings
@@ -95,14 +97,19 @@ def get_namespace_from_query(llm, question):
     namespaces_str = ", ".join(AVAILABLE_NAMESPACES)
 
     # 强制 LLM 仅返回 Namespace 名称
-    response_text = chain.invoke({"namespaces": namespaces_str, "question": question}).content.strip().lower()
+    response_text = (
+        chain.invoke({"namespaces": namespaces_str, "question": question})
+        .content
+        .strip()
+        .lower()
+    )
 
     # 验证 LLM 返回的结果，确保它在可用列表中
     if response_text in AVAILABLE_NAMESPACES:
         return response_text
     else:
         # 如果 LLM 返回无效或空值，则使用默认的 common
-        print(f"路由失败: LLM 返回 '{response_text}'。使用默认 Namespace: {DEFAULT_NAMESPACE}")
+        print(f"路由失败: LLM 返回 '{response_text}'。使用默认 Namespace: {DEFAULT_NAMESPACE}")  # noqa: E501
         return DEFAULT_NAMESPACE
 
 
@@ -124,7 +131,7 @@ def run_dynamic_rag(llm, vectorstore, question):
     retrieved_docs = retriever.invoke(question)
 
     # 3. 准备上下文和身份信息
-    retrieved_text = "\n---\n".join([doc.page_content for doc in retrieved_docs])
+    retrieved_text = "\n---\n".join([doc.page_content for doc in retrieved_docs])  # noqa: E501
 
     # 4. 定义角色身份和最终提示
     system_prompt = f"""
@@ -138,7 +145,7 @@ def run_dynamic_rag(llm, vectorstore, question):
     3. **通用知识回退：** 如果上下文**信息极度缺乏或不足以回答**用户问题，请不要拒绝，而是**结合你作为该角色AI模型所具备的背景知识**来生成一个全面、有见地的回答。
     4. 回答时必须**全程融入当前角色的视角和口吻**（例如，用第一人称“我”进行论述，体现哲学家的深度）。
     5. 除非用户另有要求，答案必须使用中文。
-    """
+    """  # noqa: E501
 
     user_prompt = f"""
     [上下文]:
