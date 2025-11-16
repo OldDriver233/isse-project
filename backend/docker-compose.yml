@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ..
+      dockerfile: backend/Dockerfile
+    container_name: sociology-master-backend
+    ports:
+      - "8000:8000"
+    environment:
+      # API 配置
+      - PROJECT_NAME=Sociology Master Chat API
+      - API_V1_PREFIX=/api/v1
+      
+      # 数据库配置
+      - DATABASE_URL=sqlite:///./backend.db
+      
+      # AI 配置 - 从 .env 文件读取
+      - PINECONE_API_KEY=${PINECONE_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - PINECONE_INDEX_NAME=sociology-master
+      
+      # CORS 配置
+      - ALLOWED_ORIGINS=http://localhost:3000,http://localhost:5173
+      
+      # 日志配置
+      - LOG_LEVEL=INFO
+    
+    volumes:
+      # 挂载数据库文件
+      - ./data:/app/data
+      # 挂载日志目录
+      - ./logs:/app/logs
+      # 挂载知识库数据（只读）
+      - ../data:/app/knowledge_data:ro
+    
+    env_file:
+      - .env
+    
+    restart: unless-stopped
+    
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    
+    networks:
+      - sociology-network
+
+networks:
+  sociology-network:
+    driver: bridge

@@ -1,0 +1,32 @@
+# 测试生成的文件和目录
+
+# Pytest 缓存
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 覆盖率报告
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.cover
+
+# 测试报告
+test_report.html
+test_report.xml
+junit.xml
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.log
+.DS_Store
