@@ -24,12 +24,13 @@ RUN pip install --no-cache-dir -r requirements.txt
 # 复制应用代码
 COPY ./app ./app
 COPY ./scripts ./scripts
+COPY .env ./.env
 
 # 复制 AI 模块（从父目录）
-COPY ../ai ../ai
+#COPY ../ai ../ai
 
 # 复制数据文件（从父目录）
-COPY ../data ../data
+#COPY ../data ../data
 
 # 创建必要的目录
 RUN mkdir -p logs data
