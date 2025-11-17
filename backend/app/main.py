@@ -18,7 +18,7 @@ app = FastAPI(
     version=settings.VERSION,
     description="社会学大师陪伴智能体 API",
     docs_url="/docs",
-    redoc_url="/redoc"
+    redoc_url="/redoc",
 )
 
 # 配置 CORS 中间件
@@ -44,8 +44,8 @@ async def startup_event():
     init_db()
     app_logger.info("✅ 数据库初始化完成")
     app_logger.info(f"✅ {settings.PROJECT_NAME} v{settings.VERSION} 启动成功")
-    app_logger.info(f"📚 API 文档: http://localhost:8000/docs")
-    app_logger.info(f"🌐 服务地址: http://localhost:8000")
+    app_logger.info("📚 API 文档: http://localhost:8000/docs")
+    app_logger.info("🌐 服务地址: http://localhost:8000")
 
 
 @app.on_event("shutdown")
@@ -60,7 +60,7 @@ async def root():
     return {
         "message": f"欢迎使用 {settings.PROJECT_NAME}",
         "version": settings.VERSION,
-        "docs": "/docs"
+        "docs": "/docs",
     }
 
 
@@ -68,24 +68,17 @@ async def root():
 async def health_check():
     """健康检查端点"""
     from datetime import datetime
+
     return {
         "status": "healthy",
         "timestamp": datetime.now().isoformat(),
-        "version": settings.VERSION
+        "version": settings.VERSION,
     }
 
 
 # 注册 API 路由
 from app.api import chat, telemetry
 
-app.include_router(
-    chat.router,
-    prefix=settings.API_V1_PREFIX,
-    tags=["chat"]
-)
+app.include_router(chat.router, prefix=settings.API_V1_PREFIX, tags=["chat"])
 
-app.include_router(
-    telemetry.router,
-    prefix=settings.API_V1_PREFIX,
-    tags=["telemetry"]
-)
+app.include_router(telemetry.router, prefix=settings.API_V1_PREFIX, tags=["telemetry"])

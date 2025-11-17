@@ -15,15 +15,11 @@ engine = create_engine(
     settings.DATABASE_URL,
     connect_args={"check_same_thread": False},  # SQLite 特定配置
     pool_pre_ping=True,  # 检查连接有效性
-    echo=False  # 生产环境设为 False
+    echo=False,  # 生产环境设为 False
 )
 
 # 创建会话工厂
-SessionLocal = sessionmaker(
-    autocommit=False,
-    autoflush=False,
-    bind=engine
-)
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 # 创建基类
 Base = declarative_base()
@@ -32,7 +28,7 @@ Base = declarative_base()
 def init_db():
     """
     初始化数据库，创建所有表
-    
+
     在应用启动时调用此函数
     """
     Base.metadata.create_all(bind=engine)
@@ -41,13 +37,13 @@ def init_db():
 def get_db():
     """
     获取数据库会话的依赖注入函数
-    
+
     用法:
         @app.post("/api/endpoint")
         async def endpoint(db: Session = Depends(get_db)):
             # 使用 db 进行数据库操作
             pass
-    
+
     Yields:
         Session: 数据库会话对象
     """

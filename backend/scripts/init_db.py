@@ -18,19 +18,20 @@ from app.models import Base
 def main():
     """初始化数据库"""
     print("🔧 开始初始化数据库...")
-    
+
     try:
         # 创建所有表
         init_db()
-        
+
         # 验证表是否创建成功
         from sqlalchemy import inspect
+
         inspector = inspect(engine)
         tables = inspector.get_table_names()
-        
-        print(f"✅ 数据库初始化成功！")
+
+        print("✅ 数据库初始化成功！")
         print(f"📊 已创建的表: {', '.join(tables)}")
-        
+
     except Exception as e:
         print(f"❌ 数据库初始化失败: {e}")
         sys.exit(1)
