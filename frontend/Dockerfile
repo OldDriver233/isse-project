@@ -1,6 +1,5 @@
-FROM ubuntu:latest
+FROM python:3.11-slim
 WORKDIR /app
-RUN apt install python3
 COPY . /app
 EXPOSE 3000
 CMD ["./start.sh"]
