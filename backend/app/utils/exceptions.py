@@ -11,11 +11,12 @@ class AppException(Exception):
     """应用基础异常类"""
 
     def __init__(
-        self, message: str, code: str = "APP_ERROR", details: Optional[str] = None
+        self, message: str, code: str = "APP_ERROR", details: Optional[str] = None, status_code: Optional[int] = 500
     ):
         self.message = message
         self.code = code
         self.details = details
+        self.status_code = status_code
         super().__init__(self.message)
 
 
@@ -52,7 +53,7 @@ class ValidationException(AppException):
         code: str = "VALIDATION_ERROR",
         details: Optional[str] = None,
     ):
-        super().__init__(message, code, details)
+        super().__init__(message, code, details, 400)
 
 
 class CharacterNotFoundException(AppException):

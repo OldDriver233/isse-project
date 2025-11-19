@@ -231,11 +231,11 @@ class TestTelemetryStatsEndpoint:
         assert data["total_feedback"] == len(ratings)
 
         # 验证评分分布
-        assert data["rating_distribution"][7] == 2  # 两个 7 分
-        assert data["rating_distribution"][5] == 1
-        assert data["rating_distribution"][8] == 1
-        assert data["rating_distribution"][9] == 1
-        assert data["rating_distribution"][10] == 1
+        assert data["rating_distribution"]["7"] == 2  # 两个 7 分
+        assert data["rating_distribution"]["5"] == 1
+        assert data["rating_distribution"]["8"] == 1
+        assert data["rating_distribution"]["9"] == 1
+        assert data["rating_distribution"]["10"] == 1
 
     def test_get_stats_rating_distribution(
         self, client: TestClient, sample_messages: list
@@ -261,7 +261,7 @@ class TestTelemetryStatsEndpoint:
 
         # 验证分布
         for rating, expected_count in rating_counts.items():
-            assert data["rating_distribution"][rating] == expected_count
+            assert data["rating_distribution"][str(rating)] == expected_count
 
         # 验证总数
         total_expected = sum(rating_counts.values())

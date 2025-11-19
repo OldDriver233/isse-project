@@ -87,7 +87,7 @@ class TelemetryService:
             return (
                 self.db.query(Telemetry)
                 .filter(Telemetry.user_id == user_id)
-                .order_by(Telemetry.created_at.desc())
+                .order_by(Telemetry.id.desc())
                 .limit(limit)
                 .all()
             )

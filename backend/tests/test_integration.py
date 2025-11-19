@@ -291,7 +291,7 @@ class TestDataConsistency:
 
         # 验证分布
         for rating, expected_count in rating_distribution.items():
-            assert stats["rating_distribution"][rating] == expected_count
+            assert stats["rating_distribution"][str(rating)] == expected_count
 
         # 验证平均值
         total_score = sum(

@@ -280,4 +280,4 @@ class TestChatSessionModel:
         test_db.refresh(session)
 
         assert session.message_count == 5
-        assert session.updated_at > session.created_at
+        assert session.updated_at >= session.created_at

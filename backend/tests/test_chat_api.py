@@ -81,7 +81,7 @@ class TestChatEndpoint:
 
         assert response.status_code == 404
         data = response.json()
-        assert_error_response(data, "CHARACTER_NOT_FOUND")
+        assert_error_response(data["detail"], "CHARACTER_NOT_FOUND")
 
     def test_chat_missing_character(self, client: TestClient):
         """测试缺少角色参数"""
@@ -176,7 +176,7 @@ class TestChatEndpoint:
 
         assert response.status_code == 503
         data = response.json()
-        assert_error_response(data, "AI_SERVICE_UNAVAILABLE")
+        assert_error_response(data["detail"], "AI_SERVICE_UNAVAILABLE")
 
     @patch("app.services.ai_service.ai_service.chat")
     def test_chat_internal_error(
@@ -189,7 +189,7 @@ class TestChatEndpoint:
 
         assert response.status_code == 500
         data = response.json()
-        assert_error_response(data, "INTERNAL_ERROR")
+        assert_error_response(data["detail"], "INTERNAL_ERROR")
 
 
 class TestChatStreamingEndpoint:
@@ -366,7 +366,7 @@ class TestChatErrorHandling:
 
         assert response.status_code == 400
         data = response.json()
-        assert_error_response(data, "INVALID_REQUEST")
+        assert_error_response(data["detail"], "INVALID_REQUEST")
 
     @patch("app.services.ai_service.ai_service.chat")
     def test_key_error_handling(
@@ -379,7 +379,7 @@ class TestChatErrorHandling:
 
         assert response.status_code == 404
         data = response.json()
-        assert_error_response(data, "CHARACTER_NOT_FOUND")
+        assert_error_response(data["detail"], "CHARACTER_NOT_FOUND")
 
     @patch("app.services.ai_service.ai_service.chat")
     def test_connection_error_handling(
@@ -392,4 +392,4 @@ class TestChatErrorHandling:
 
         assert response.status_code == 503
         data = response.json()
-        assert_error_response(data, "AI_SERVICE_UNAVAILABLE")
+        assert_error_response(data["detail"], "AI_SERVICE_UNAVAILABLE")
