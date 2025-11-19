@@ -75,7 +75,7 @@ class Settings(BaseSettings):
     AVAILABLE_NAMESPACES: List[str] = ["tocqueville", "common"]
 
     # RAG 配置
-    RAG_TOP_K: int = 4  # 检索文档数量
+    RAG_TOP_K: int = 8  # 检索文档数量
 
     model_config = SettingsConfigDict(
         env_file=".env", env_file_encoding="utf-8", case_sensitive=True, extra="ignore"

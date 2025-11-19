@@ -124,7 +124,7 @@ def run_dynamic_rag(llm, vectorstore, question):
     # 2. 执行 RAG 检索
     # 设置检索器，并指定 Namespace
     retriever = vectorstore.as_retriever(
-        search_kwargs={"namespace": target_namespace, "k": 4}  # 检索 4 个最相关的文档块
+        search_kwargs={"namespace": target_namespace, "k": 8}  # 检索 8 个最相关的文档块
     )
 
     # 检索文档

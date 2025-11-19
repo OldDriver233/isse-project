@@ -58,7 +58,7 @@ def main():
         client_options={"api_key": os.getenv("GEMINI_API_KEY")},
         transport='rest'
     )
-    splitter = RecursiveCharacterTextSplitter(chunk_size=1000,
+    splitter = RecursiveCharacterTextSplitter(chunk_size=1500,
                                               chunk_overlap=200)
 
     print(f"开始遍历 '{DATA_ROOT}' 文件夹并载入到 Pinecone 索引: {INDEX_NAME}")
