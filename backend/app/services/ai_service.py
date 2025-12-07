@@ -12,7 +12,9 @@ from typing import List, Optional, AsyncGenerator, Dict, Any
 from datetime import datetime
 
 from langchain_pinecone import PineconeVectorStore
-from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
+#from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
+from langchain_community.chat_models.tongyi import ChatTongyi
+from langchain_community.embeddings import DashScopeEmbeddings
 from langchain_core.prompts import ChatPromptTemplate
 from pinecone import Pinecone
 
@@ -66,18 +68,15 @@ class AIService:
                 )
 
             # 初始化 Embeddings
-            self.embeddings = GoogleGenerativeAIEmbeddings(
+            self.embeddings = DashScopeEmbeddings(
                 model=settings.EMBEDDING_MODEL,
-                client_options={"api_key": settings.GEMINI_API_KEY},
-                transport="rest",
+                dashscope_api_key=settings.DASHSCOPE_API_KEY,
             )
 
             # 初始化 Chat LLM
-            self.chat_llm = ChatGoogleGenerativeAI(
+            self.chat_llm = ChatTongyi(
                 model=settings.CHAT_MODEL,
-                temperature=settings.DEFAULT_TEMPERATURE,
-                client_options={"api_key": settings.GEMINI_API_KEY},
-                transport="rest",
+                api_key=settings.DASHSCOPE_API_KEY,
             )
 
             # 初始化 VectorStore
@@ -247,8 +246,8 @@ class AIService:
             prompt = self._build_rag_prompt(question, context, namespace)
 
             # 设置温度
-            if temperature is not None:
-                self.chat_llm.temperature = temperature
+            # if temperature is not None:
+            #     self.chat_llm.temperature = temperature
 
             # 生成响应
             if stream:

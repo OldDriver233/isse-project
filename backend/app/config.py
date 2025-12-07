@@ -26,6 +26,7 @@ class Settings(BaseSettings):
 
     # AI 配置 - Gemini
     GEMINI_API_KEY: str
+    DASHSCOPE_API_KEY: str
 
     # CORS 配置
     ALLOWED_ORIGINS: Union[List[str], str] = [
@@ -68,8 +69,8 @@ class Settings(BaseSettings):
     LOG_LEVEL: str = "INFO"
 
     # AI 模型配置
-    EMBEDDING_MODEL: str = "text-embedding-004"
-    CHAT_MODEL: str = "gemini-2.5-flash"
+    EMBEDDING_MODEL: str = "text-embedding-v4"
+    CHAT_MODEL: str = "qwen-flash"
     DEFAULT_TEMPERATURE: float = 0.5
     DEFAULT_NAMESPACE: str = "common"
     AVAILABLE_NAMESPACES: List[str] = ["tocqueville", "common"]

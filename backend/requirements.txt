@@ -15,8 +15,10 @@ pinecone-client>=5.0.0
 langchain>=0.1.0
 langchain-core>=0.1.0
 langchain-google-genai>=0.0.6
+langchain-community>=0.0.1
 langchain-pinecone>=0.0.1
 langchain-text-splitters>=0.0.1
+dashscope>=0.0.1
 
 # 工具库
 python-dotenv>=1.0.0

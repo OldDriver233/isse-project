@@ -18,7 +18,8 @@ from dotenv import load_dotenv
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_pinecone import PineconeVectorStore
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_community.embeddings import DashScopeEmbeddings
+#from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from pinecone import Pinecone, ServerlessSpec
 
 load_dotenv(dotenv_path="ai/.env")
@@ -48,15 +49,14 @@ def main():
     if INDEX_NAME not in pc.list_indexes().names():
         pc.create_index(
             name=INDEX_NAME,
-            dimension=768,
+            dimension=1024,
             metric="cosine",
             spec=ServerlessSpec(cloud="aws", region="us-east-1")
         )
 
-    embeddings = GoogleGenerativeAIEmbeddings(
-        model="text-embedding-004",
-        client_options={"api_key": os.getenv("GEMINI_API_KEY")},
-        transport='rest'
+    embeddings = DashScopeEmbeddings(
+        model="text-embedding-v4",
+        dashscope_api_key=os.getenv("DASHSCOPE_API_KEY")
     )
     splitter = RecursiveCharacterTextSplitter(chunk_size=1500,
                                               chunk_overlap=200)
