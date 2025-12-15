@@ -12,7 +12,7 @@ from typing import List, Optional, AsyncGenerator, Dict, Any
 from datetime import datetime
 
 from langchain_pinecone import PineconeVectorStore
-#from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
+# from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
 from langchain_community.chat_models.tongyi import ChatTongyi
 from langchain_community.embeddings import DashScopeEmbeddings
 from langchain_core.prompts import ChatPromptTemplate

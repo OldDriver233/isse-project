@@ -77,8 +77,10 @@ async def health_check():
 
 
 # 注册 API 路由
-from app.api import chat, telemetry
+from app.api import chat, telemetry, metrics
 
 app.include_router(chat.router, prefix=settings.API_V1_PREFIX, tags=["chat"])
 
 app.include_router(telemetry.router, prefix=settings.API_V1_PREFIX, tags=["telemetry"])
+
+app.include_router(metrics.router, tags=["metrics"])

@@ -20,6 +20,7 @@ from app.utils.exceptions import (
     CharacterNotFoundException,
     RateLimitException,
 )
+from app.services.monitor_service import monitor_service
 
 
 class RequestLoggingMiddleware(BaseHTTPMiddleware):
@@ -62,6 +63,7 @@ class RequestLoggingMiddleware(BaseHTTPMiddleware):
                 f"[Status: {response.status_code}] "
                 f"[Time: {process_time:.3f}s]"
             )
+            monitor_service.observe_time(process_time, request.url.path)
 
             return response
 
