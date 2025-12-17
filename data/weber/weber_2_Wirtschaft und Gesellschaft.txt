@@ -1,4 +1,4 @@
-Max Weber
+Max Weber
 Gesamtausgabe
 Im Auftrag der Kommission für Sozial- und Wirtschaftsgeschichte
 der Bayerischen Akademie der Wissenschaften
@@ -12,7 +12,7 @@ Band 24
 
 J. C. B. Mohr (Paul Siebeck) Tübingen
 
-Max Weber
+Max Weber
 
 Wirtschaft und Gesellschaft
 Entstehungsgeschichte und Dokumente
@@ -23,7 +23,7 @@ Wolfgang Schluchter
 
 J. C. B. Mohr (Paul Siebeck) Tübingen
 
-Redaktion: Ursula Bube – Edith Hanke – Anne Munding
+Redaktion: Ursula Bube – Edith Hanke – Anne Munding
 Die Herausgeberarbeiten wurden im Rahmen des Akademienprogramms von der Bundesrepublik Deutschland, dem Land Baden-Württemberg sowie vom Freistaat Bayern
 gefördert.
 
@@ -41,7 +41,7 @@ Verarbeitung in elektronischen Systemen.
 Das Buch wurde gesetzt und gedruckt von Gulde-Druck in Tübingen auf alterungsbeständiges Werkdruckpapier. Den Einband besorgte die Großbuchbinderei Josef
 Spinner in Ottersweier.
 
-Inhaltsverzeichnis
+Inhaltsverzeichnis
 
 Vorwort  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Siglen, Zeichen, Abkürzungen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -50,20 +50,20 @@ VII
 IX
 
 Entstehungsgeschichte
-I. 	Vom „Schönberg“ über das „Handbuch der politischen Ökonomie“
+I. 	Vom „Schönberg“ über das „Handbuch der politischen Ökonomie“
 zum „Grundriß der Sozialökonomik“: Max Weber als Organisator
 und Redakteur des Sammelwerks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-II. 	Von „Wirtschaft und Gesellschaft“ über „Die Wirtschaft und die
+II. 	Von „Wirtschaft und Gesellschaft“ über „Die Wirtschaft und die
 gesellschaftlichen Ordnungen und Mächte“ zur „Soziologie“:
 Max Weber als Autor des Sammelwerks . . . . . . . . . . . . . . . . . . . . . . . . .
 III. Die Editionen von „Wirtschaft und Gesellschaft“ . . . . . . . . . . . . . . . . .
-1. Marianne Weber: „Wirtschaft und Gesellschaft“ als ein Buch in
+1. Marianne Weber: „Wirtschaft und Gesellschaft“ als ein Buch in
 drei Teilen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2. Johannes Winckelmann: „Wirtschaft und Gesellschaft“ als ein
+2. Johannes Winckelmann: „Wirtschaft und Gesellschaft“ als ein
 Buch in zwei Teilen  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-3. Die Herausgeber der Max Weber-Gesamtausgabe: „Wirtschaft
+3. Die Herausgeber der Max Weber-Gesamtausgabe: „Wirtschaft
 und Gesellschaft“ als ein Projekt in zwei Fassungen . . . . . . . . . . . . .
-IV.	Schlußbetrachtung: Die relative Integration der Vorkriegsmanuskripte  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+IV.	Schlußbetrachtung: Die relative Integration der Vorkriegsmanuskripte  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Anhang zur Entstehungsgeschichte . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 1
@@ -81,7 +81,7 @@ Vorbemerkung zu den Dokumenten . . . . . . . . . . . . . . . . . . . . . . . . .
 I. Gliederungen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 II. Rundschreiben und Titel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 III. Verlagsverträge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-IV. Notizen von Max Weber zu den Beiträgen anderer Autoren
+IV. Notizen von Max Weber zu den Beiträgen anderer Autoren
 (Auswahl)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Anhang zu den Dokumenten  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -93,7 +93,7 @@ Anhang zu den Dokumenten  . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 235
 251
 
-VI
+VI
 
 Inhaltsverzeichnis
 
@@ -113,7 +113,7 @@ Bandfolge der Abteilung III: Vorlesungen und Vorlesungs­nachschriften .
 284
 285
 
-Vorwort
+Vorwort
 
 Bedenkt man die seit seiner Krankheit immer prekäre Arbeitsfähigkeit
 Max Webers, so erstaunt es im Rückblick, daß er im Jahre 1908 zwei Entscheidungen traf, die seine Arbeitskraft langfristig binden und erheblich
@@ -142,7 +142,7 @@ daraus schließlich seine Soziologie, die Konzeption einer verstehenden
 empirischen Wissenschaft vom menschlichen Handeln. Daß die äußerst verwickelte Entstehungsgeschichte dieses Beitrags lange weitgehend unbemerkt blieb, lag nicht zuletzt an seiner für gültig gehaltenen Edition, die,
 zunächst von Marianne Weber mit der Unterstützung von Melchior Palyi,
 
-VIII
+VIII
 
 Vorwort
 
@@ -166,7 +166,7 @@ Heidelberg, im Dezember 2008
 
 Wolfgang Schluchter
 
-Siglen, Zeichen, Abkürzungen
+Siglen, Zeichen, Abkürzungen
 
 .
 Seitenwechsel
@@ -180,7 +180,7 @@ Von Max Weber gestrichene Textstelle
 Im edierten Text: Hinzufügung des Editors
 A1, A2, A3
 Seiten- bzw. Blattzählung der Textvorlage
-[A1]	Seiten- bzw. Blattzählung der Textvorlage bei unterbrochener Wiedergabe oder bei Nichtübereinstimmung von
+[A1]	Seiten- bzw. Blattzählung der Textvorlage bei unterbrochener Wiedergabe oder bei Nichtübereinstimmung von
 Seiten- und Textbeginn
 A 1, A 2
 parallel überlieferte Textfassungen
@@ -252,7 +252,7 @@ bei Max Weber
 Brief
 Bayerische Staatsbibliothek
 
-X
+X
 
 Siglen, Zeichen, Abkürzungen
 
@@ -357,7 +357,7 @@ m.E.
 Mark
 meines Erachtens
 
-Siglen, Zeichen, Abkürzungen
+Siglen, Zeichen, Abkürzungen
 
 XI
 
@@ -369,7 +369,7 @@ Ms., Mscr.
 Manuskript
 m.W.
 meines Wissens
-MWG	Max Weber-Gesamtausgabe; vgl. die Übersicht zu den
+MWG	Max Weber-Gesamtausgabe; vgl. die Übersicht zu den
 Einzelbänden, unten, S.  276–279, 284  f.
 NB
 Nl.
@@ -401,7 +401,7 @@ S.
 Seite
 Schluchter,
 Schluchter, Wolfgang, Grundlegungen der Soziologie. Eine
-Grundlegungen I	Theoriegeschichte in systematischer Absicht, Band  I. –
+Grundlegungen I	Theoriegeschichte in systematischer Absicht, Band  I. –
 Tübingen: Mohr Siebeck 2006
 sog., sogen.
 sogenannt(er)
@@ -450,17 +450,17 @@ Weber, Marianne, Max Weber. Ein Lebensbild, 1. Aufl. –
 Tübingen: J. C. B. Mohr (Paul Siebeck) 1926 (Nachdruck
 = 3.  Aufl., ebd. 1984)
 
-XII
+XII
 
 Siglen, Zeichen, Abkürzungen
 
-Weber, Kategorien	Weber, Max, Über einige Kategorien der verstehenden
+Weber, Kategorien	Weber, Max, Über einige Kategorien der verstehenden
 Soziologie, in: Logos. Internationale Zeitschrift für Philo­
 sophie der Kultur, Band  4, Heft 3, 1913, S.  253–294
 (MWG I/12)
 Wirtsch.
 Wirtschaft
-WuG1	Weber, Max Wirtschaft und Gesellschaft (Grundriß der
+WuG1	Weber, Max Wirtschaft und Gesellschaft (Grundriß der
 So­zial­ökonomik, Abteilung III), 1.  Aufl. – Tübingen: J. C. B.
 Mohr (Paul Siebeck) 1922 (MWG I/22-1 bis 6 und I/23)
 z. B.
@@ -469,7 +469,7 @@ z. Z.
 zum Beispiel
 zur Zeit
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 1
 
@@ -497,7 +497,7 @@ Schönberg unter seinem Namen in Verbindung mit vielen Fachwissenschaftlern hera
 noch in Freiburg lebte, hatte er Max Weber wohl bei seiner Antrittsvorlesung erlebt und
 diese dann auch verlegt.
 
-2
+2
 
 Entstehungsgeschichte
 
@@ -538,7 +538,7 @@ Verlag G. Fischer 1890 ff. Das Sachregister zur ersten Auflage erschien 1895, de
 9 Die zweite, gänzlich umgearbeitete Auflage, unter Mitwirkung von Wilhelm Lexis und
 Edgar Loening, erfolgte in den Jahren 1898 bis 1901, die dritte, abermals gänzlich
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 3
 
@@ -578,7 +578,7 @@ und 12. April an Max Weber in Sachen Schönberg schrieb. Darüber gleich mehr. B
 Paul Siebecks an Max Weber vom 11. und 12. April 1905, VA Mohr/Siebeck, Deponat
 BSB München, Ana 446.
 
-4
+4
 
 Entstehungsgeschichte
 
@@ -616,7 +616,7 @@ S.  96.
 14 Schönberg meinte laut Paul Siebeck, diese Artikel seien nicht genügend „systematisch-lehrbuchhaft“. Brief Paul Siebecks an Max Weber vom 11. und 12. April, VA Mohr/
 Siebeck, Deponat BSB München, Ana 446.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 5
 
@@ -657,7 +657,7 @@ Louis und in einem der beiden Artikel für die Encyclopedia Americana. Dazu MWG
 I/8, S.  92 ff. und S.  212 ff., sowie MWG I/8, Ergänzungsheft, S.  25 ff. Zu der Diskussion
 zwischen Paul Siebeck und Max Weber über das Projekt im Jahre 1905 auch die Er-
 
-6
+6
 
 Entstehungsgeschichte
 
@@ -697,7 +697,7 @@ reif.“
 21 Brief Max Webers an Paul Siebeck vom 26. November 1905, VA Mohr/Siebeck,
 Deponat BSB München, Ana 446 (MWG II/4).
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 7
 
@@ -737,7 +737,7 @@ ausdrücklich vermerkt. Weber war über die positive Haltung von Schönberg zu s
 Person deshalb überrascht, weil er einst bei der Berufung nach Heidelberg Schönberg
 vorgezogen worden war. Er vermutete also auf Schönbergs Seite ihm gegenüber Animosität.
 
-8
+8
 
 Entstehungsgeschichte
 
@@ -780,7 +780,7 @@ wohl schon das beste, wenn Schumacher zu gewinnen wäre.“ (Ebd., S.  95 f.
 29 Brief Paul Siebecks an Max Weber vom 25. Mai 1906, VA Mohr/Siebeck, Deponat
 BSB München, Ana 446; Teilabdruck in: MWG II/5, S.  95, Anm.  1.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 9
 
@@ -822,7 +822,7 @@ schlecht wäre, – als Sch[önberg]’s Nachfolger (was doch wohl sehr leicht d
 wäre er vielleicht doch vorerst nicht ganz ‚tanti‘, – man kann ja nicht wissen, wie er sich
 entwickelt.“ (MWG II/5, S.  197).
 
-10
+10
 
 Entstehungsgeschichte
 
@@ -861,7 +861,7 @@ Schönberg bei jeder neuen Auflage die Hälfte des Abhandlungenhonorars zu bezah
 seine in derselben publizierten Abhandlungen erhielt.“ Alle Zitate aus dem in Anm.  33
 genannten Vertrag.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 11
 
@@ -903,7 +903,7 @@ Deponat BSB München, Ana 446 (MWG II/4).
 37 Brief Max Webers an Paul Siebeck vom 11. September 1906 und vom 13. April
 1907, MWG II/5, S.  158 und 279 f. Weber macht hier abermals personelle Vorschläge.
 
-12
+12
 
 Entstehungsgeschichte
 
@@ -944,7 +944,7 @@ Verwaltungslehre – einen (Soll-) Umfang von 120 Bogen Schönberg oder auch Phi
 Paul Siebecks an Max Weber vom 9. Oktober 1908, VA Mohr/Siebeck, BSB München,
 Ana 446.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 13
 
@@ -983,7 +983,7 @@ gesprochen. Vgl. dazu Brief Paul Siebecks an Max Weber vom 9. Oktober 1908, VA
 Mohr/Siebeck, Deponat BSB München, Ana 446.
 46 Brief Max Webers an Paul Siebeck vom 15. Oktober 1908, MWG II/5, S.  676 f.
 
-14
+14
 
 Entstehungsgeschichte
 
@@ -1017,7 +1017,7 @@ Als Weber daranging, erste Überlegungen zur inhaltlichen Gestaltung des
 48 Weber, Max, Zur Psychophysik der industriellen Arbeit, in: MWG I/11, S.  162–380.
 49 Dazu MWG I/11, S.  8–12.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 15
 
@@ -1059,7 +1059,7 @@ S.  148–154.
 Siebeck, Deponat BSB München, Ana 446. Der Brief ist auszugsweise abgedruckt in
 MWG II/6, S.  183, Anm.  1.
 
-16
+16
 
 Entstehungsgeschichte
 
@@ -1098,7 +1098,7 @@ provisorische Stoffverteilungsplan ist im Verlagsarchiv nicht nachgewiesen. Paul
 zu haben“. Brief Paul Siebecks an Max Weber vom 11. Juni 1909, VA Mohr/Siebeck,
 Deponat BSB München, Ana 446.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 17
 
@@ -1136,7 +1136,7 @@ nach Analogie des in meinem Verlag erscheinenden ‚Grundrisses der theologische
 61 Brief Max Webers an Paul Siebeck vom 31. Juli 1909, MWG II/6, S.  211.
 62 Brief Max Webers an Paul Siebeck vom 20. August 1909, MWG II/6, S.  230.
 
-18
+18
 
 Entstehungsgeschichte
 
@@ -1170,7 +1170,7 @@ derselbe darüber informiert und in der Lage ist, gegebenen Falles ihnen Vorschl
 Philippovich („ein glänzender Systematiker“). Brief Max Webers an Paul Siebeck vom
 3. September 1909, MWG II/6, S.  249.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 19
 
@@ -1209,7 +1209,7 @@ zu entnehmen, abgedruckt in MWG II/6, S.  308–314, hier S.  311 ff. De
 Wünschen geänderte Vertrag ist im Dokumententeil ediert, unten, S.  197–202. Dort
 sind die Änderungen Max Webers zum ursprünglichen Entwurf des Verlages hervorgehoben und textkritisch annotiert.
 
-20
+20
 
 Entstehungsgeschichte
 
@@ -1254,7 +1254,7 @@ wäre er gerne losgeworden. Dazu außer dem letztgenannten Brief bereits der Bri
 Max Webers an Edgar Jaffé vom 21. November 1912, MWG II/7, S.  764. Hier blieb Weber, nicht zuletzt aus Rücksicht auf den Verleger, allerdings dann doch bis zum Ende
 seines Lebens dabei.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 21
 
@@ -1291,7 +1291,7 @@ Siebeck, Tübingen, Nr.  269, auszugsweise abgedruckt in MWG II/6, S.  3
 75 Brief Max Webers an Paul Siebeck vom 8. November 1909, MWG II/6, S.  309.
 76 Dazu Schluchter, Grundlegungen I, S.  200 ff.
 
-22
+22
 
 Entstehungsgeschichte
 
@@ -1326,7 +1326,7 @@ erwarten durfte, ist dem Brief zu entnehmen, mit dem Wieser die Behandlung
 der Wirtschaftstheorie im Rahmen des neuen Handbuchs akzeptierte. Die
 77 So wörtlich im Stoffverteilungsplan vom Mai 1910, unten, S.  145.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 23
 
@@ -1367,7 +1367,7 @@ erreicht, „sobald man als den Gegenstand der Werthdoctrin nicht mehr den
 78 Brief Friedrich von Wiesers an Max Weber vom 13. Juli 1909, überliefert als Abschrift in VA Mohr/Siebeck, Deponat BSB München, Ana 446.
 79 Ebd.
 
-24
+24
 
 Entstehungsgeschichte
 
@@ -1406,7 +1406,7 @@ Sinne auf. Aber dies hätte noch keine ‚organische Ordnung‘ ergeben, wie sie
 Siebeck, Deponat BSB München, Ana 446.
 85 Dazu Schluchter, Grundlegungen I, S.  237 ff.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 25
 
@@ -1445,7 +1445,7 @@ Deponat BSB München, Ana 446. Dazu ausführlich oben, S.  13, Anm.  44.
 BSB München, Ana 446.
 88 Der Verlagsvertrag ist abgedruckt unten, S.  203–206. Max Weber erklärte sein Einverständnis mit Schreiben vom 15. Februar 1910, MWG II/6, S.  407.
 
-26
+26
 
 Entstehungsgeschichte
 
@@ -1481,7 +1481,7 @@ des Raums nicht im Handbuch bleiben können. Denn ich brauche noch mindestens 3
 Bogen für Füll- und Ergänzungs-Artikel, die ich selbst schreibe. Sonst geht die Sache
 nicht.“ Brief Max Webers an Paul Siebeck vom 1. Mai 1910, MWG II/6, S.  485.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 27
 
@@ -1515,7 +1515,7 @@ darauf noch zurück, unten, S.  37  f.
 auch selbst übernehmen.
 97 Dazu allerdings auch der oben, S.  25, Anm.  87, zitierte Brief.
 
-28
+28
 
 Entstehungsgeschichte
 
@@ -1536,14 +1536,14 @@ tritt im „Stoffverteilungsplan“ gegenüber dem theoretischen Gedanken zurüc
 Es gibt zwischen beiden Dispositionen zwar gewisse Ähnlichkeiten, insbesondere im allgemeinen Teil, aber es überwiegen doch die Unterschiede.
 Dies läßt sich aus der folgenden groben Gegenüberstellung der beiden Dispositionen ersehen.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 Stoffverteilungsplan 1910 mit handschriftlichen Zusätzen des Verlages
 Verlagsarchiv Mohr/Siebeck, Deponat Bayerische Staatsbibliothek München
 
 29
 
-Die Naturbedingungen der Wirtschaft.
+Die Naturbedingungen der Wirtschaft.
 Die Bevölkerung.
 Die biologischen und anthropologischen Grundlagen der
 Gesellschaft.
@@ -1644,7 +1644,7 @@ Stoffverteilungsplan (1910). Auszug
 30
 Entstehungsgeschichte
 
-§ 20.
+§ 20.
 
 § 18. Verteilung und Konsum und ihre theoretischen Probleme.
 I. Der Besitz und die Rechtsordnung.
@@ -1712,7 +1712,7 @@ I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 31
 
-32
+32
 
 Entstehungsgeschichte
 
@@ -1746,7 +1746,7 @@ Behauptung darüber hinaus mit einer schweren Beleidigung Webers verbunden. Denn
 98 Schreiben an die Mitherausgeber des Handbuchs vom 8. Dezember 1913, unten,
 S.  189  f.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 33
 
@@ -1788,7 +1788,7 @@ worden ist, daß das Handbuch den Charakter eines Lehrbuchs annehmen solle.“ E
 handelt sich um den Vertrag für die 4. Auflage, von dem oben, S.  10  f., im Zusammenhang mit dem ominösen §  6, die Rede war. Brief Paul Siebecks an Max Weber vom 19.
 März 1912, VA Mohr/Siebeck, Deponat BSB München, Ana 446. Weber machte dann
 
-34
+34
 
 Entstehungsgeschichte
 
@@ -1824,7 +1824,7 @@ einem solchem Mißverständnis heraus sich vertraglich verpflichtet haben sollte
 Ausstieg an. Dies wurde aber offensichtlich von keinem der Mitherausgeber wahrgenommen. Dazu Brief Paul Siebecks an Max Weber vom 28. Juni 1912, VA Mohr/Siebeck, Deponat BSB München, Ana 446 und Max Webers Antwort, vor oder am 5. Juli
 1912, MWG II/7, S.  599.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 35
 
@@ -1862,7 +1862,7 @@ einmal in a) und b) unterteilt ist und diese beiden Unterkapitel verschiedenen A
 einem Autor versehen. Dazu Bericht aus dem Verlag von J. C. B. Mohr (Paul Siebeck)
 und der H. Laupp’schen Buchhandlung, Tübingen, Nr.  4 vom 2. Juni 1914.
 
-36
+36
 
 Entstehungsgeschichte
 
@@ -1900,7 +1900,7 @@ Paul Siebeck hatte den Vorschlag gemacht, „das Werk nicht in zwei Bänden ausz
 Dezember 1913, VA Mohr/Siebeck, Deponat BSB München, Ana 446. Dazu auch MWG
 II/8, S.  467 f., Anm.  2 und 7.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 37
 
@@ -1940,7 +1940,7 @@ April und vom 15. April 1914, MWG II/8, S.  553, 574, 587 und 623.
 17 Karte Max Webers an Paul Siebeck vom 20. März 1914, MWG II/8, S.  562 f., sowie
 die Beitragsübersicht, unten, S.  155–163.
 
-38
+38
 
 Entstehungsgeschichte
 
@@ -1976,7 +1976,7 @@ Bände eingeteilt werden soll, wie Sie auf dem Durchschlag des Stoffverteilungsp
 angeben, so würde sich technisch folgende Einteilung ergeben: I. Band, I. Halbband
 (I. Buch I-VIII) cca 49–50 Bogen; I. Band, II. Halbband (I. Buch IX und X, II. Buch) ca
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 39
 
@@ -2012,7 +2012,7 @@ Laupp jr. 1918, Nr.  6.
 22 Brief Max Webers an die Mitherausgeber des Handbuchs vom 8. Dezember 1913,
 unten, S.  188  f.
 
-40
+40
 
 Entstehungsgeschichte
 
@@ -2055,7 +2055,7 @@ Max Webers an Paul Siebeck vom 19. Juni 1914, MWG II/8, S.  721 f.
 25 Brief Max Webers an Paul Siebeck vom 27. Juli 1914, MWG II/8, S.  776.
 26 Brief Max Webers an Paul Siebeck vom 30. Juli 1914, MWG II/8, S.  778.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 41
 
@@ -2097,7 +2097,7 @@ die er 1913 entworfen hatte. Sie erschienen, teilweise in überarbeiteter Form, 
 in Neufassung, ab 1915 im Archiv für Sozialwissenschaft und Sozialpolitik.
 33 Brief Max Webers an Paul Siebeck, vor dem 10. Mai 1916, MWG II/9, S.  411.
 
-42
+42
 
 Entstehungsgeschichte
 
@@ -2135,7 +2135,7 @@ Grundriß der Sozialökonomik, Abt. IX: Das soziale System des Kapitalismus, I. 
 gesellschaftliche Schichtung des Kapitalismus. – Tübingen: J. C. B. Mohr (Paul Siebeck) 1926, S.  241–359, publiziert.
 35 Vertragsentwurf und die beiden Verträge unten, S.  219–225; hier S. 220  f.
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 43
 
@@ -2175,7 +2175,7 @@ Webers Beitrag nichts aus. Wäre dies das Vorbild für Abteilung III gewesen, so
 38 Die 1. Lieferung erschien erst im Februar 1921. Sie bricht mit dem nicht mehr zu
 Ende geschriebenen Kapitel IV ab.
 
-44
+44
 
 Entstehungsgeschichte
 
@@ -2213,7 +2213,7 @@ November 1920. Mit dem Tod beider ging eine Epoche zu Ende.
 es dann: „Begründet von Werner Sombart, Max Weber und Edgar Jaffé. In Verbindung
 mit Joseph Schumpeter und Alfred Weber herausgegeben von Emil Lederer.“
 
-I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
+I. Vom „Schönberg“ zum „Grundriß der Sozialökonomik“
 
 45
 
@@ -2256,7 +2256,7 @@ redaktionellem Leiter des ‚Grundriß der Sozialökonomik‘, und der Verlagsbu
 Werner Sombart, 2a-b, Bl. 318–319. Lederer trug die ersten beiden Punkte Werner
 Sombart zur Bearbeitung an.
 
-46
+46
 
 Entstehungsgeschichte
 
@@ -2293,7 +2293,7 @@ letzte Abteilung der 1. Auflage schließlich im Jahre 1930. Damit lagen nach
 der Sache nichts mehr wissen, einzig Schumpeter erklärte sich zu einer Überarbeitung
 bereit.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 47
 
@@ -2331,7 +2331,7 @@ Werner Sombart, 2a-b, Bl. 318–319.
 49 Neben den Vertretern der Grenznutzenschule bestritten vor allem Vertreter des linken Flügels des Vereins für Sozialpolitik das Sammelwerk.
 1 Wieser, Friedrich von, Recht und Macht. Sechs Vorträge. – Leipzig: Duncker & Humblot 1910 (hinfort: Wieser, Recht und Macht).
 
-48
+48
 
 Entstehungsgeschichte
 
@@ -2370,7 +2370,7 @@ Buch: Zur Soziologie des Parteiwesens in der modernen Demokratie. Untersuchungen
 7 Stammler, Rudolf, Wirtschaft und Recht nach der materialistischen Geschichtsauffassung. Eine sozialphilosophische Untersuchung, 2., verbesserte Aufl. – Leipzig: Veit
 & Co 1906.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 49
 
@@ -2409,7 +2409,7 @@ S.  690.
 11 Weber, Kategorien, S.  253, Fn.  1.
 12 Brief Max Webers an Paul Siebeck, nach dem 20. April 1909, MWG II/6, S.  105 f.
 
-50
+50
 
 Entstehungsgeschichte
 
@@ -2448,7 +2448,7 @@ faktischen Regelmäßigkeiten des menschlichen Verhaltens.“ Beides aber sei
 14 Dazu Weber, Max, Die Wirtschaft und die Ordnungen, WuG1, S.  368–385. Die Edition in MWG I/22-3 folgt dem Originalmanuskript, Deponat Max Weber, BSB München,
 Ana 446.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 51
 
@@ -2484,7 +2484,7 @@ man mit Gründen vermuten kann, daß er einmal zu den frühen Texten von
 16 Ebd., S.  385.
 17 Weber, Kategorien, S.  253, Fn.  1.
 
-52
+52
 
 Entstehungsgeschichte
 
@@ -2518,7 +2518,7 @@ Vergesellschaftung und Einverständnishandeln formuliert ist, mit der These
 21 Hierzu MWG I/19, S.  83, Fn.  1. Der Text, der Freunden vorgelesen wurde, dürfte die
 „Einleitung“ in „Die Wirtschaftsethik der Weltreligionen“ gewesen sein.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 53
 
@@ -2553,7 +2553,7 @@ der Herrschaftssoziologie, ja selbst für die Gemeinschaften, mit Ausnahme des T
 über politische Gemeinschaften. Und auch in der „Stadt“ kommt der Begriff nicht vor.
 24 Alle Zitate Weber, Kategorien, S.  253, Fn.  1.
 
-54
+54
 
 Entstehungsgeschichte
 
@@ -2587,7 +2587,7 @@ Erscheinen des Ganzen und zwar jetzt – vor den Erörterungen des V[ereins]
 27 Dazu Brief Max Webers an Heinrich Rickert vom 23. März 1913, MWG II/8, S.  140.
 28 Brief Max Webers an Franz Boese vom 14. August 1913, MWG II/8, S.  311.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 55
 
@@ -2627,7 +2627,7 @@ als über das Archiv. Hier kannte man ja seine Position. In demselben Heft ersch
 und die objektive Kultur“.
 33 Brief Max Webers an Heinrich Rickert vom 5. September 1913, MWG II/8, S.  318.
 
-56
+56
 
 Entstehungsgeschichte
 
@@ -2662,7 +2662,7 @@ sozialwissenschaftlicher und sozialpolitischer Erkenntnis“, in: AfSSp, 19. Ban
 35 Diese Bezüge finden sich alle in Abschnitt II des Kategorienaufsatzes. Auch die
 Literaturangaben in Fn.  1 verweisen auf Mitte 1913 (Rickert und Jaspers). Weber, Kategorien, S.  259 f. bzw. 253, Fn.  1.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 57
 
@@ -2697,7 +2697,7 @@ die Führung übernehmen. So ist schon 1913 parallel zum „Gemeinschafts36 Ebd.
 37 Dabei gibt es aber Kontinuität zwischen den beiden Begriffssprachen. Dazu
 Schluchter, Grundlegungen I, S.  258 ff.
 
-58
+58
 
 Entstehungsgeschichte
 
@@ -2736,7 +2736,7 @@ Richtigkeitsrationalität.
 41 Brief Max Webers an Hermann Kantorowicz vom 29. Dezember 1913, MWG II/8,
 S.  442 f.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 59
 
@@ -2775,7 +2775,7 @@ der Religionssoziologie, aber auch der Herrschaftssoziologie. Dazu gleich mehr.
 45 Es ist das Verdienst von Hiroshi Orihara, die Weber-Forschung auf die Bedeutung
 der Textverweise für die Rekonstruktion der von Weber beabsichtigten Textabfolge
 
-60
+60
 
 Entstehungsgeschichte
 
@@ -2812,11 +2812,11 @@ kritisch Schluchter, Wolfgang, Zur Entwicklungsgeschichte von Max Webers Beitrag
 zum Handbuch der politischen Ökonomie, später: Grundriß der Sozialökonomik, in:
 ders., Individualismus, S.  179–236.
 
-I. Die Wirtschaft und die gesellschaftlichen Ordnungen und
+I. Die Wirtschaft und die gesellschaftlichen Ordnungen und
 Mächte. (Max Weber)
 
 a) Wirtschaft und Recht (1. prinzipielles Verhältnis,
-	2. Epochen der Entwicklung des heutigen
+	2. Epochen der Entwicklung des heutigen
 Zustands).
 (Prof. Max Weber.)
 b) Wirtschaft und soziale Gruppen (Familien- und
@@ -2825,7 +2825,7 @@ Gemeindeverband, Stände und Klassen, Staat).
 c) Wirtschaft und Kultur (Kritik des historischen
 Materialismus) (Prof. Max Weber.)
 
-II. Entwicklungsgang der wirtschafts- und sozialpolitischen
+II. Entwicklungsgang der wirtschafts- und sozialpolitischen
 Systeme und Ideale. (Eugen von Philippovich)
 
 1. Kategorien der gesellschaftlichen Ordnungen.
@@ -2857,7 +2857,7 @@ II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 61
 
-62
+62
 
 Entstehungsgeschichte
 
@@ -2895,7 +2895,7 @@ internationalen Beziehungen bedeutsam wird[.] 2) Vergleichende Untersuchung der 
 efficiency), als bedeutsam für die handelspolitischen Beziehungen und für
 die Bedingungen des Austausches zwischen den Nationen[.] 3) Vergleichende Untersuchung der durch ökonomische, politische, pädagogische
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 63
 
@@ -2929,7 +2929,7 @@ für sich als beendet erklärt hatte, wandte er sich nicht, wie zunächst geplan
 der Fortsetzung dieser Studien, sondern der Erforschung der universalhisto46 Brief Max Webers an Georg Jellinek vom 12. September 1909, MWG II/6, S.  261 f.
 47 Weber, Marianne, Lebensbild, S.  348 f.
 
-64
+64
 
 Entstehungsgeschichte
 
@@ -2968,7 +2968,7 @@ außer stande, es ist schlimm genug, daß ich noch eine ältere (für den ‚Log
 meiner Hauptarbeit an mir hängen habe.“ Brief Max Webers an Camilla Jellinek vom
 26. und 27. September 1911, MWG II/7, S.  278.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 65
 
@@ -3008,7 +3008,7 @@ unten, S.  189.
 53 Brief Max Webers an Paul Siebeck vom 15. März 1914, MWG II/8, S.  553.
 54 Karte Max Webers an Paul Siebeck vom 21. März 1914, MWG II/8, S.  574.
 
-66
+66
 
 Entstehungsgeschichte
 
@@ -3047,7 +3047,7 @@ auch ein Entwurf des Rundschreibens an die Mitarbeiter, S.  427; dass. unten
 179. Interessant ist, daß die Manuskripte an den Verlag geschickt werden sollten, nicht
 an Max Weber. Als Grund wird angegeben, daß zunächst der Umfang festgestellt werden müsse.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 67
 
@@ -3088,7 +3088,7 @@ Bandmann, Adolf Koch und Bernhard Harms. Die ersten drei Auseinandersetzungen
 sind dokumentiert in MWG II/7, S.  816–988. Die Auseinandersetzung mit Bernhard
 Harms wurde bereits geschildert. Dazu MWG II/8, S.  19 ff.
 
-68
+68
 
 Entstehungsgeschichte
 
@@ -3123,7 +3123,7 @@ enthält auch eine Aufstellung der zu diesem Zeitpunkt eingegangenen und zu erwa
 J. Schumpeter, Fr. Freiherrn von Wieser. – Tübingen: J. C. B. Mohr (Paul Siebeck) 1914,
 S.  1–18.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 69
 
@@ -3153,7 +3153,7 @@ wo eine Konkurrenz zwischen politischen Einheiten, auf eigenen Füßen stehenden
 66 Brief Max Webers an Johann Plenge vom 11. August 1913, MWG II/8, S.  305.
 67 Brief Max Webers an Johann Plenge vom 11. August 1913, MWG II/8, S.  304.
 
-70
+70
 
 Entstehungsgeschichte
 
@@ -3190,7 +3190,7 @@ die ethnographisch-urgeschichtlichen Teile der Soziologie nicht behandelt.“ Br
 Webers an Paul Siebeck vom 6. November 1913 MWG II/8, S.  353.
 71 Weber teilte Paul Siebeck am 3. November 1913 allerdings mit, er habe 8 Tage aufgewendet, um Gottls „um das 5 fache zu großes Mscr. zu kürzen“, MWG II/8, S.  343.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 71
 
@@ -3227,7 +3227,7 @@ seien in der Summe umfangreicher, als erwartet, aber die „Hauptattentäter“
 73 Brief Max Webers an Paul Siebeck vom 11. November 1913, MWG II/8, S.  373 f.
 74 Rundschreiben an die Mitherausgeber vom 8. Dezember 1913, unten, S.  189.
 
-72
+72
 
 Entstehungsgeschichte
 
@@ -3269,7 +3269,7 @@ Mythik/rituelle Absonderung“, schon früher geschrieben. Dazu MWG I/21, S. �
 77 Brief Max Webers an Heinrich Rickert, nach dem 3. Juli 1913, MWG II/8, S.  262.
 78 Brief Max Webers an Werner Sombart vom 2. Dezember 1913, MWG II/8, S.  415.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 73
 
@@ -3303,7 +3303,7 @@ nur auf das Sammelwerk zu blicken. Die separate Veröffentlichung des Kategorien
 Fn.  1.
 81 Vgl. das Rundschreiben an die Mitherausgeber mit dem Titel „Handbuch der Sozialökonomik“ vom 8. Dezember 1913, unten, S.  189.
 
-74
+74
 
 Entstehungsgeschichte
 
@@ -3338,7 +3338,7 @@ einem Brief vom 25. Februar 1914 an Paul Siebeck bemerkt er, es sei „natür-
 
 82 Weber, Kategorien, S. 253, Fn. 1
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 75
 
@@ -3431,7 +3431,7 @@ d) Die Entwicklung des
 modernen Staates.
 e) Die modernen politischen Parteien.
 
-76
+76
 
 Entstehungsgeschichte
 
@@ -3472,7 +3472,7 @@ und Alles macht sich jetzt gut!“, MWG II/8, S.  705.
 7 Brief Max Webers an Paul Siebeck vom 2. April 1914, MWG II/8, S.  587: „[. . .] er war
 nicht zu genauer Angabe zu bewegen.“
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 77
 
@@ -3504,7 +3504,7 @@ Bücher, J. Schumpeter, Fr. Freiherrn von Wieser. – Tübingen: J. C. B. Mohr (
 9 So im Kommentar zu dem oben zitierten Brief, MWG II/8, S.  588, Anm.  8.
 10 Wieser, Theorie (wie oben, Anm.  8), S.  142.
 
-78
+78
 
 Entstehungsgeschichte
 
@@ -3541,7 +3541,7 @@ das Gossensche Gesetz folgendermaßen: „Bei jedem teilbaren Bedürfnis wird in
 Einheiten derselben Art wird mit abnehmender Intensität begehrt, bis der Sättigungspunkt erreicht ist, darüber hinaus schlägt das Begehren in Widerwillen um.“ Wieser,
 Theorie, S.  148.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 79
 
@@ -3616,7 +3616,7 @@ S.  3
 82 ff.
 ff.
 
-80
+80
 
 Entstehungsgeschichte
 
@@ -3651,7 +3651,7 @@ Kategorienaufsatzes. Was später soziale Beziehung heißt, wird hier mit dem Beg
 Vergemeinschaftung eingefangen, der sich dann in die Begriffe Vergesellschaftung
 (streng genommen: Gesellschaftsvergemeinschaftung) und Einverständnisvergemeinschaftung verzweigt.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 81
 
@@ -3687,7 +3687,7 @@ ist keine harmlose ‚Anweisung auf unbestimmte Nutzleistungen‘, welche man
 27 Ebd.
 28 Ebd.
 
-82
+82
 
 Entstehungsgeschichte
 
@@ -3726,7 +3726,7 @@ fordert Webers Reaktion heraus. Dies leitet die dritte Phase ein, in der er
 29 Ebd., Kapitel II, §  13, 1.
 30 Brief Max Webers an Victor Schwoerer vom 14. November 1917, MWG II/9, S.  812.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 83
 
@@ -3763,7 +3763,7 @@ ca 30 Bogen in Maximo beträgt.“ Brief Max Webers an Paul Siebeck vom 16. Janu
 33 Dazu oben, S.  40, Anm.  24.
 34 MWG I/22-2, S.  367–414.
 
-84
+84
 
 Entstehungsgeschichte
 
@@ -3804,7 +3804,7 @@ des Krieges noch Ihnen die Aufsätze über die ‚Wirtschaftsethik der Weltrelig
 fertig stellen kann, daß sie mit der ‚Protestantischen Ethik‘ zusammen herausgegeben
 werden können.“ MWG II/9, S.  411.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 85
 
@@ -3844,7 +3844,7 @@ Gesellschaftsbildung, soziale Gebilde, soziale Gemeinschaften, Vergesellschaftun
 Auch Stammler wird an verschiedenen Stellen kritisiert. Weber, Max, [Diskussionsbeitrag zum Vortrag von Werner Sombart: Technik und Kultur], in: Verhandlungen des
 Ersten Deutschen Soziologentages vom 19.–22. Oktober 1910 in Frankfurt a. M. – Tü-
 
-86
+86
 
 Entstehungsgeschichte
 
@@ -3878,7 +3878,7 @@ zu Sombarts Vortrag über Technik und Kultur, die gewissermaßen auf das Gutacht
 zum Werturteilsstreit und auf die Studien zur Musik (MWG I/14) vorgreift, sind alle dabei
 behandelten Themen grundrißrelevant.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 87
 
@@ -3928,7 +3928,7 @@ einordnen. Es ist also untauglich für eine exakte Datierung der letzten Überar
 und Erweiterung von „Die Wirtschaft und die Ordnungen“.
 40 WuG1, S.  379 (MWG I/22-3).
 
-88
+88
 
 Entstehungsgeschichte
 
@@ -3968,7 +3968,7 @@ bezeugt. 1914 aber werden Nr.  1 und Nr.  2 an verschiedenen Stellen des
 41 Zur Frage des ‚Kopfs‘ des Manuskripts von 1914 Schluchter, Individualismus,
 S.  226 ff.
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 89
 
@@ -4006,7 +4006,7 @@ Kapitel II: „Soziologische Grundkategorien des Wirtschaftens“; Kapitel III:
 vermutlich jeweils als ein Kapitel, die „Religionssoziologie“, die „Rechtssoziologie“ und die „Staatssoziologie“. Auch ein Kapitel „über die Theorie der
 42 Dazu der allerdings nicht eindeutige „Editorische Bericht“ zu „[Die Entwicklungsbedingungen des Rechts]“, in: MWG I/22-3.
 
-90
+90
 
 Entstehungsgeschichte
 
@@ -4048,7 +4048,7 @@ religiösen Ethiken)
 
 Soziologische Staats­ und Herrschaftslehre
 
-II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
+II. Von „Wirtschaft und Gesellschaft“ zur „Soziologie“
 
 jüngere Fassung
 
@@ -4114,7 +4114,7 @@ Stände, Klassen, Parteien. Die Nation.
 
 91
 
-92
+92
 
 Entstehungsgeschichte
 
@@ -4148,7 +4148,7 @@ sie?
 44 Ebd., §  14 (MWG I/23).
 45 Zu den ursprünglichen Texten über Herrschaft und ihre mangelnde interne Kohärenz die „Einleitung“ und die „Editorischen Berichte“ von Edith Hanke, MWG I/22-4.
 
-III. Die Editionen von „Wirtschaft und Gesellschaft“
+III. Die Editionen von „Wirtschaft und Gesellschaft“
 
 93
 
@@ -4180,7 +4180,7 @@ sowie Weber, Max, ‚Kirchen‘ und ‚Sekten‘ in Nordamerika. Eine kirchen- u
 aller Stände, 20. Jg., Nr.  24 vom 14. Juni 1906 und Nr.  25 vom 21. Juni 1906 (MWG
 I/9).
 
-94
+94
 
 Entstehungsgeschichte
 
@@ -4219,7 +4219,7 @@ handeln. Nach den beitragsinternen Verweisen zu urteilen, sollte das Kapitel V, 
 die Soziologie der Gemeinschaften oder Verbände, wohl noch im Rahmen der 1. Lieferung erscheinen, denn Kapitel V ist in den ersten vier Kapiteln mehrmals erwähnt,
 während bei Bezugnahmen auf die Religions-, Rechts- und Staatssoziologie keine Kapitelnummern angegeben sind.
 
-III. Die Editionen von „Wirtschaft und Gesellschaft“
+III. Die Editionen von „Wirtschaft und Gesellschaft“
 
 95
 
@@ -4258,7 +4258,7 @@ Band. – Berlin: Duncker & Humblot 2001, S.  25 f.
 9 Weber, Max, Wirtschaftsgeschichte. Abriß der universalen Sozial- und Wirtschaftsgeschichte. Aus den nachgelassenen Vorlesungen hg. von Prof. S. Hellmann und Dr.
 M. Palyi. – München und Leipzig: Duncker & Humblot 1923 (MWG III/6).
 
-96
+96
 
 Entstehungsgeschichte
 
@@ -4295,7 +4295,7 @@ zu viel Dank verpflichtet, ohne seine selbstlose Hilfe wäre die Soziologie nich
 bewältigt.“ Brief Marianne Webers an Oskar Siebeck vom 9. August 1922, VA Mohr/
 Siebeck, Deponat BSB München, Ana 446.
 
-III. Die Editionen von „Wirtschaft und Gesellschaft“
+III. Die Editionen von „Wirtschaft und Gesellschaft“
 
 97
 
@@ -4328,7 +4328,7 @@ wie Melchior Palyi für fachlich inkompetent.
 17 Brief Marianne Webers an Werner Siebeck vom 3. Oktober 1920, VA Mohr/Siebeck,
 Deponat BSB München, Ana 446.
 
-98
+98
 
 Entstehungsgeschichte
 
@@ -4370,7 +4370,7 @@ zu veröffentlichen. Sie habe Emil Lederer das Manuskript nur unter der Vorausse
 übergeben, daß es „auch im Grundriß an passender Stelle aufgenommen werde“. Dies
 steht aber im Widerspruch zum „Vorwort“ der 2. Lieferung. Brief Marianne Webers an
 
-III. Die Editionen von „Wirtschaft und Gesellschaft“
+III. Die Editionen von „Wirtschaft und Gesellschaft“
 
 99
 
@@ -4399,7 +4399,7 @@ Dezember 1919, mit Datum vom 16. Dezember 1920, unten, S.  226.
 21 Verlags-Vertrag zwischen Frau Marianne Weber in Heidelberg als Rechtsnachfolgerin des verstorbenen Herrn Professor Max Weber einerseits und der Verlagsbuchhandlung J. C. B. Mohr (Paul Siebeck) in Tübingen andererseits, vom 1. Juni 1921,
 unten, S.  227–229.
 
-100
+100
 
 Entstehungsgeschichte
 
@@ -4442,7 +4442,7 @@ Tabu/ 4. ‚Prophet‘/ 5. Gemeinde/ 6. Heil, Wissen, Predigt, Seelsorge/ 7. St�
 Klassen u. Religion/ 8 Theodizee/ 9. Erlösung und Wiedergeburt/ 10. Erlösungswege/
 11. Religiöse Ethik und ‚Welt‘/ 12. Die Kulturreligionen und die Welt (Unvollendet)“.
 
-III. Die Editionen von „Wirtschaft und Gesellschaft“
+III. Die Editionen von „Wirtschaft und Gesellschaft“
 
 101
 
@@ -4477,7 +4477,7 @@ I/14). – Tübingen: J. C. B. Mohr (Paul Siebeck) 2004.
 29 Nachtragsvertrag zwischen Frau Dr. Marianne Weber in Heidelberg und der Verlagsbuchhandlung J. C. B. Mohr (Paul Siebeck) in Tübingen, vom 13. Februar 1925,
 unten, S.  233  f.
 
-102
+102
 
 Entstehungsgeschichte
 
@@ -4516,7 +4516,7 @@ Deutschen Buchhandel.
 32 Deshalb verbliebene Kapitelfolge, weil mit jeder Lieferung ja die dafür getroffenen
 Entscheidungen nicht mehr abgeändert werden konnten.
 
-III. Die Editionen von „Wirtschaft und Gesellschaft“
+III. Die Editionen von „Wirtschaft und Gesellschaft“
 
 103
 
@@ -4558,7 +4558,7 @@ Tübingen, Nr.  404. Dies war weit mehr, als von den anderen Beiträgen des 
 in einem Jahr abgesetzt wurde.
 36 Vorwort zur 2. Lieferung und zur ersten Auflage, vgl. dazu oben, S.  95, Anm. 7.
 
-104
+104
 
 Entstehungsgeschichte
 
@@ -4594,7 +4594,7 @@ erforschen.37
 
 37 Dazu Schluchter, Grundlegungen I, S.  224 ff.
 
-III. Die Editionen von „Wirtschaft und Gesellschaft“
+III. Die Editionen von „Wirtschaft und Gesellschaft“
 
 105
 
@@ -4626,7 +4626,7 @@ die Rezeptionsgeschichte. Sie überzeugte die wissenschaftliche Öffentlichkeit 
 und ein Buch in Teilen sei. Dies wirkte so prägend, daß auch der zweite Editor
 38 In dem überlieferten Manuskript sind Paragraphenzeichen bei der Überschrift eingetragen, aber wieder gestrichen.
 
-106
+106
 
 Entstehungsgeschichte
 
@@ -4667,7 +4667,7 @@ Mit einem Anhang: Die rationalen und soziologischen Grundlagen der Musik, 4., ne
 herausgegebene Auflage, besorgt von Johannes Winckelmann, 1. und 2. Halbband.
 – Tübingen: J. C. B. Mohr (Paul Siebeck) 1956. Zitat aus dem „Vorwort zur vierten Auflage“, S.  XII.
 
-III. Die Editionen von „Wirtschaft und Gesellschaft“
+III. Die Editionen von „Wirtschaft und Gesellschaft“
 
 107
 
@@ -4708,7 +4708,7 @@ Winckelmann, 1. und 2. Halbband sowie Erläuterungsband. – Tübingen: J. C. B.
 in: Neue politische Literatur, 3. Jg., 1958, Sp.  896–900. Die Vorbehalte der Erben Max
 Webers schlagen sich in der Verlagskorrespondenz nieder, VA Mohr/Siebeck, Tübingen.
 
-108
+108
 
 Entstehungsgeschichte
 
@@ -4753,7 +4753,7 @@ der legitimen Herrschaft“ bei. Weber, Max, Staatssoziologie. Mit einer Einfüh
 Erläuterungen hg. von Johannes Winckelmann. – Berlin: Duncker & Humblot 1956, die
 Zitate auf den Seiten 9 und 111.
 
-III. Die Editionen von „Wirtschaft und Gesellschaft“
+III. Die Editionen von „Wirtschaft und Gesellschaft“
 
 109
 
@@ -4787,7 +4787,7 @@ Die Abteilung sollte seinen eigenen Beitrag und den von Eugen von Philippovich u
 die gesellschaftlichen Ordnungen und Mächte“. Um dieser Entwicklung
 Rechnung zu tragen, wurden für die ältere Fassung (Band  I/22) Abteilungsund Beitragstitel von 1914 verbunden. Daraus ergibt sich der Titel: „Wirt-
 
-110
+110
 
 Entstehungsgeschichte
 
@@ -4823,7 +4823,7 @@ der „Soziologischen Grundkategorien des Wirtschaftens“ vermuten, oder ob
 er den Text gänzlich neu schrieb, wie es bei der Herrschaftssoziologie der
 Fall zu sein scheint. Die Gesamtausgabe kann also kein in sich geschlosse-
 
-IV. Schlußbetrachtung
+IV. Schlußbetrachtung
 
 111
 
@@ -4858,7 +4858,7 @@ der Sozialökonomik, erarbeitet hatte. Diese Manuskripte waren also aus ihrer
 1 Dazu auch die Ausführungen der Herausgeber „Zur Edition von ,Wirtschaft und Gesellschaft‘“, die jedem Teilband der alten Fassung und der neuen Fassung vorangestellt sind.
 2 Brief Marianne Webers an Paul Siebeck vom 30. Juni 1920, VA Mohr/Siebeck, Deponat BSB München, Ana 446.
 
-112
+112
 
 Entstehungsgeschichte
 
@@ -4892,7 +4892,7 @@ J. C. B. Mohr (Paul Siebeck) 1920, S.  15 (MWG I/18).
 5 In ihrem „Vorwort zur ersten Auflage“ von „Wirtschaft und Gesellschaft“ schreibt
 sie: „Die Herausgabe dieses nachgelassenen Hauptwerkes des Verfassers bot naturgemäß manche Schwierigkeiten. Für den Aufbau des Ganzen lag kein Plan vor. Der
 
-IV. Schlußbetrachtung
+IV. Schlußbetrachtung
 
 113
 
@@ -4928,7 +4928,7 @@ niemand abnimmt, kostet so viel Kraft, und dann der bürokratische Schlendrian.�
 8 Winckelmann, Johannes, Vorwort zur vierten Auflage, in: Weber, Max, Wirtschaft und
 Gesellschaft, 4.  Aufl. – Tübingen: J. C. B. Mohr (Paul Siebeck) 1956, S.  XI.
 
-114
+114
 
 Entstehungsgeschichte
 
@@ -4963,7 +4963,7 @@ sah er auch eigene Artikel vor. Diese sollten kurz sein, und die Themen entstamm
 Der Kategorienaufsatz als Schlüssel, in: ders., Individualismus, S.  184, Fn.  16 und
 S.  186, Fn.  1.
 
-IV. Schlußbetrachtung
+IV. Schlußbetrachtung
 
 115
 
@@ -5004,7 +5004,7 @@ auftaucht.
 verschiedene Artikel über die Entwicklung des Kapitalismus waren für das „Fünfte
 Buch“ vorgesehen.
 
-116
+116
 
 Entstehungsgeschichte
 
@@ -5045,7 +5045,7 @@ und zu den Kulturinhalten, etwa zur Musik.
 17 Brief Max Webers an Mina Tobler von ‚Samstag früh‘ [15. Juni 1918], Privatbesitz
 (MWG II/10).
 
-IV. Schlußbetrachtung
+IV. Schlußbetrachtung
 
 117
 
@@ -5081,7 +5081,7 @@ her. Gleichzeitig scheint er weitergeschrieben zu haben. Jedenfalls laufen immer
 Fahnen für spätere Paragraphen bei ihm ein.
 19 MWG I/22-1, S.  114.
 
-118
+118
 
 Entstehungsgeschichte
 
@@ -5125,7 +5125,7 @@ wie andere Texte zu den Gemeinschaften auch, in dieser Gestalt Webers Reaktion a
 Büchers Minderleistung sein.
 21 Ebd., S.  114–190.
 
-IV. Schlußbetrachtung
+IV. Schlußbetrachtung
 
 119
 
@@ -5156,7 +5156,7 @@ Kategorien, S.  283.
 eingehalten. So ist ein zentraler Gesichtspunkt bei der Behandlung der Hausgemeinschaft deren Entwicklung zum Oikos einerseits, zur Trennung von Haushalt und Betrieb
 andererseits. Allerdings ist diese Entwicklung hier nur angedeutet. Sie wird noch ein-
 
-120
+120
 
 Entstehungsgeschichte
 
@@ -5193,7 +5193,7 @@ teilt mit, Max Weber halte diese Änderung „für durchaus zweckmäßig und nü
 Vgl. unten, S.  192.
 27 Es war natürlich nicht für alle Herausgeber eine Separatausgabe ihrer Artikel vorgesehen. In dem Entwurf sind erwähnt: Wieser, Rathgen und Schulze-Gaevernitz. Weber fügt Gottl hinzu. Ebd.
 
-IV. Schlußbetrachtung
+IV. Schlußbetrachtung
 
 121
 
@@ -5235,7 +5235,7 @@ schließlich für den Beitrag „Konjunkturen und Krisen“ gewonnen hatte, auf 
 1915 festsetzte. Trotz der öffentlich geäußerten Selbstverpflichtung, im Oktober 1914
 zu liefern, gab es also immer noch einen gewissen Spielraum, der von ihm ohne größeren Gesichtsverlust hätte genutzt werden können. Dazu unten, S.  207–210.
 
-122
+122
 
 Entstehungsgeschichte
 
@@ -5277,7 +5277,7 @@ konstatiert zu Recht, daß dieser nur indirekt überlieferte Text „ein wichtig
 ‚Herrschaftssoziologie‘ bildet. Er liefert entscheidende Anhaltspunkte für inhaltliche
 und konzeptionelle Änderungen und markiert zugleich den Zeitpunkt, die zweite Jahreshälfte 1917, in der Max Weber die Fäden zur Weiterarbeit an seinem ‚Grundriß‘Beitrag wiederaufnahm.“ Ebd., S.  746.
 
-IV. Schlußbetrachtung
+IV. Schlußbetrachtung
 
 123
 
@@ -5317,7 +5317,7 @@ sondern von Marianne Weber.
 37 Der Text beginnt mit der Unterscheidung zwischen Öffentlichem Recht und Privatrecht. Dies hat keinerlei Bezug zu Vorausgehendem.
 38 MWG I/22-4, S.  454–578, insbesondere die Editorischen Berichte der Herausgeberin.
 
-124
+124
 
 Entstehungsgeschichte
 
@@ -5354,7 +5354,7 @@ gesellschaftlicher Ordnungen“, bedurft. Eine andere Möglichkeit hätte darin
 bestanden, den gerade separat publizierten Kategorienaufsatz noch einmal
 zu verwenden und ihn zusammen mit dem Text „Die Wirtschaft und die Ordnungen“ an die Spitze der ‚geschlossenen soziologischen Theorie und Dar-
 
-IV. Schlußbetrachtung
+IV. Schlußbetrachtung
 
 125
 
@@ -5394,7 +5394,7 @@ Baumgarten. – Tübingen: J. C. B. Mohr (Paul Siebeck) 1964, hier S.  138; 
 dem Text „Wirtschaftliche Beziehungen der Gemeinschaften im allgemeinen“, MWG
 I/22-1, hier S.  79.
 
-126
+126
 
 Entstehungsgeschichte
 
@@ -5434,7 +5434,7 @@ Allgemeine (‚theoretische‘) Nationalökonomie, in: MWG III/1, S.  81–1
 Webers institutionenbezogene Analyse, in: Stachura, Mateusz et al. (Hg.), Der Sinn der
 Institutionen. Mehr-Ebenen- und Mehr-Seiten-Analyse. – Wiesbaden: Verlag für Sozialwissenschaften 2009, S.  209–235.
 
-IV. Schlußbetrachtung
+IV. Schlußbetrachtung
 
 127
 
@@ -5468,7 +5468,7 @@ so kann man vermuten, unter Verwendung der bereits dargelegten soziologischen Ka
 Lösungen des Knappheitsproblems (Wirtschaft) sowie des Legitimationsund Verwaltungsproblems (Herrschaft) hängen eng mit der Klassen- und
 Ständebildung zusammen: Appropriations- und Autoritätsverhältnisse erzeu43 Dazu ausführlich Schluchter, Grundlegungen I, S.  265–271.
 
-128
+128
 
 Entstehungsgeschichte
 
@@ -5495,7 +5495,7 @@ und Darstellung‘ blieb also letztlich Desiderat.
 dem kraft monopolistischer Lage auf einem Markt, unter Vermeidung des Herrschaftsbegriffs gegenübergestellt: also: Herrschaft (Autorität) versus Macht. Dazu WuG1, Kap.
 III, §  1, 2 (MWG I/23).
 
-Anhang zur Entstehungsgeschichte
+Anhang zur Entstehungsgeschichte
 
 129
 
@@ -5517,7 +5517,7 @@ Soziologie
 MWG I/12, kategorienreich,
 ausgegliedert
 
-	Wirtschaft und Recht in ihrer
+	Wirtschaft und Recht in ihrer
 prinzipiellen Beziehung
 
 Die Wirtschaft und die
@@ -5527,7 +5527,7 @@ MWG I/22-3, Grundschicht
 ohne Kategorien, Erweiterung
 kategorienreich, möglicherweise ausgegliedert
 
-	Wirtschaftliche Beziehungen der
+	Wirtschaftliche Beziehungen der
 Verbände im allgemeinen
 
 Wirtschaftliche Beziehun- MWG I/22-1, kategorienarm
@@ -5572,7 +5572,7 @@ Politische Gemeinschaften
 
 MWG I/22-1, kategorienreich
 
-	Die Entwicklungsbedingungen
+	Die Entwicklungsbedingungen
 des Rechts
 
 Die Entwicklungsbedingungen des Rechts
@@ -5633,7 +5633,7 @@ Parteien
 
 Text fehlt
 
-130
+130
 
 Anhang zur Entstehungsgeschichte
 
@@ -5648,31 +5648,31 @@ werk, S.  94–105
 
 3. August 1921
 
-1 Die Wirtschaft und die
+1 Die Wirtschaft und die
 Ordnungen
 
-1 Wirtschaft und Gesellschaft
+1 Wirtschaft und Gesellschaft
 im allgemeinen
 
-1 Wirtschaft und Gesellschaft
+1 Wirtschaft und Gesellschaft
 im allgemeinen
 
 2 Rechtssoziologie
 
-2 Hausgemeinschaft und
+2 Hausgemeinschaft und
 Nachbarverband
 
-2 Hausgemeinschaft und
+2 Hausgemeinschaft und
 Nachbarverband
 
-3 Wirtschaft und Gesellschaft
+3 Wirtschaft und Gesellschaft
 im allgemeinen
 
 3 Ethnische Gemeinschaften
 
 3 Ethnische Gemeinschaften
 
-4 Hausgemeinschaft und
+4 Hausgemeinschaft und
 Nachbarverband
 
 4 Religionssoziologie
@@ -5692,10 +5692,10 @@ in 12 Abschnitten
 
 6 Herrschaft
 
-7 Markt
+7 Markt
 fehlt Schluß
 
-7 Die Wirtschaft und die
+7 Die Wirtschaft und die
 Ordnungen
 
 7 Politische Gemeinschaften
@@ -5748,7 +5748,7 @@ Ordnungen
 
 15 Feudalismus
 
-16 Umbildung des Charisma
+16 Umbildung des Charisma
 (fehlt Schluß)
 
 16 Umbildung des Charisma
@@ -5759,7 +5759,7 @@ Ordnungen
 
 17 Feudalismus
 
-17 Die Wirtschaft und die
+17 Die Wirtschaft und die
 Ordnungen
 
 18 Staat und Hierokratie
@@ -5768,7 +5768,7 @@ Ordnungen
 
 18 Rechtssoziologie
 
-19 Die Stadt
+19 Die Stadt
 bereits bei Siebeck
 u. im Archiv gedruckt
 
@@ -5776,7 +5776,7 @@ u. im Archiv gedruckt
 
 19 Die Stadt
 
-Anhang zur Entstehungsgeschichte
+Anhang zur Entstehungsgeschichte
 
 131
 
@@ -5786,22 +5786,22 @@ u. im Archiv gedruckt
 
 25. Juli 1922
 
-1 Wirtschaft und Gesellschaft
+1 Wirtschaft und Gesellschaft
 im allgemeinen
 
-1 Wirtschaft und Gesellschaft
+1 Wirtschaft und Gesellschaft
 im allgemeinen
 
-1 Wirtschaft und Gesellschaft
+1 Wirtschaft und Gesellschaft
 im allgemeinen
 
-2 Hausgemeinschaft und
+2 Hausgemeinschaft und
 Nachbarverband
 
-2 Hausgemeinschaft und
+2 Hausgemeinschaft und
 Nachbarverband
 
-2 Hausgemeinschaft und
+2 Hausgemeinschaft und
 Nachbarverband
 
 3 Ethnische Gemeinschaften
@@ -5824,13 +5824,13 @@ Nachbarverband
 
 6 Die Stadt
 
-6 Die Wirtschaft und die
+6 Die Wirtschaft und die
 Ordnungen
 
-6 Die Wirtschaft und die
+6 Die Wirtschaft und die
 Ordnungen
 
-7 Die Wirtschaft und die
+7 Die Wirtschaft und die
 Ordnungen
 
 7 Rechtssoziologie
@@ -5849,11 +5849,11 @@ Ordnungen
 
 9 Herrschaft
 
-10 Politische Gemeinschaften
+10 Politische Gemeinschaften
 
-10 Politische Gemeinschaften
+10 Politische Gemeinschaften
 
-10 Politische Gemeinschaften
+10 Politische Gemeinschaften
 
 11 Machtgebilde: „Nation“
 
@@ -5889,7 +5889,7 @@ Ordnungen
 
 16 Charismatismus
 
-16 Wirkungen des Patrimonalismus und Feudalismus
+16 Wirkungen des Patrimonalismus und Feudalismus
 
 17 Umbildung des Charisma
 
@@ -5909,23 +5909,23 @@ Ordnungen
 
 19 Staat und Hierokratie
 
-132
+132
 
 Anhang
 Entstehungsgeschichte
 zur Entstehungsgeschichte
 
-Section 1
+Section 1
 
 Dokumente
 
 133
 
-134
+134
 
 Dokumente
 
-Übersicht über die Dokumente
+Übersicht über die Dokumente
 
 135
 
@@ -5950,7 +5950,7 @@ wenn nicht anders vermerkt, die Umlaute Ae, Oe, Ue stillschweigend in Ä, Ö,
 Ü sowie ss in ß umgewandelt und Hervorhebungen in den Dokumenten
 (Unterstreichungen, Sperr- und Fettdruck) kursiv wiedergegeben.
 
-Übersicht über die Dokumente
+Übersicht über die Dokumente
 
 I. Gliederungen
 1. Zusagen für das „Handbuch der politischen Ökonomie“. November 1909. . . 
@@ -6015,7 +6015,7 @@ abgeschlossen mit Marianne Weber. 16. Dezember 1920. . . . . . . . . . . . . . .
 226
 227
 
-Übersicht über die Dokumente
+Übersicht über die Dokumente
 
 137
 
@@ -6050,11 +6050,11 @@ Abteilungen des „Grundrisses der Sozialökonomik“. . . . . . . . . . . . . .
 Sozialökonomik“ 1921. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  254
 3. Titelblatt zur Erstausgabe von „Wirtschaft und Gesellschaft“ 1922. . . . . . . . .  256
 
-138
+138
 
 Dokumente
 
-I. Gliederungen – Dokument Nr. 1
+I. Gliederungen – Dokument Nr. 1
 
 139
 
@@ -6090,7 +6090,7 @@ schrieb mit schwarzer Tinte sowie mit Rot- und Bleistift Zusätze in die Vorlage
 hinein. Diese Zusätze werden in größerer Schrifttype wiedergegeben und
 textkritisch annotiert.
 
-140
+140
 A [1]
 
 Dokumente
@@ -6163,7 +6163,7 @@ a A: G. b Eigenhändige Hinzufügung in schwarzer Tinte. c – c Von Max Weber g
 
 35
 
-141
+141
 
 I. Gliederungen – Dokument Nr. 1
 und Geschichte der wirtschaftspolitischen Systeme und Theorien.
@@ -6220,7 +6220,7 @@ Börsenwesen
 d Eigenhändige Hinzufügung mit Bleistift am linken Rand. e 3 von Max Weber mit doppelt unterstrichener Ziffer 2 überschrieben. Diese ist mit Rotstift geschrieben. f – f Eigenhändige Zusätze in schwarzer Tinte. g Hinzugefügte Passage von Max Weber selbst
 gestrichen.
 
-142
+142
 
 Dokumente
 
@@ -6252,7 +6252,7 @@ Weber autorisierten Text handelt, wird dieser in normaler Schriftgröße ediert.
 Nicht berücksichtigt werden hier die nachträglichen handschriftlichen Zusätze
 von dritter Hand sowie der Zweispaltendruck des „Stoffverteilungsplans“.
 
-I. Gliederungen – Dokument Nr. 2
+I. Gliederungen – Dokument Nr. 2
 
 143
 
@@ -6288,7 +6288,7 @@ a A: Sich
 
 A [1]
 
-144
+144
 
 Dokumente
 
@@ -6321,7 +6321,7 @@ des Lesers in die dogmatischen und methodischen Kontroversen
 der betreffenden Einzelprobleme besonders zweckmäßig sein.
 5. Das Werk erscheint unter der Kollektiv-Titulatur aller Mitarbeiter (ohne sogen. „Herausgeber“).
 
-I. Gliederungen – Dokument Nr. 2
+I. Gliederungen – Dokument Nr. 2
 
 145
 
@@ -6371,7 +6371,7 @@ a) Wirtschaft und Recht (1. prinzipielles Verhältnis,
 
 b [ ] in A. c [ ] in A.
 
-146
+146
 
 IV.
 
@@ -6424,7 +6424,7 @@ schaft in ihrer relativen Bedeutung für die Bedarfsdeckung.
 Haushalt, Betrieb, Unternehmung: Geschichte und System
 der Unternehmungsformen (Einzelunternehmung, Gesellschaft, Genossenschaft, halb und ganz öffentliche Unter- 35
 
-I. Gliederungen – Dokument Nr. 2
+I. Gliederungen – Dokument Nr. 2
 
 147
 
@@ -6464,7 +6464,7 @@ Wirtschaft; Geldsurrogate: Wechsel, Banknote, Bankguthabengeld, Scheck, Giro, Cl
 Arten des Kredits; Kapitalangebot und Nachfrage; Zinsbewegung; Effekten und Kursbewegung.
 3. Funktionen der Zentralnotenbanken und staatliche Ordnung des Notenbankwesens.) (Prof. Plenge.)
 
-148
+148
 
 Dokumente
 
@@ -6516,7 +6516,7 @@ einschließlich der Tarifpolitik und der Frage der Konkurrenz und des Zusammenwi
 (Prof. Wiedenfeld.)
 Gewerbe.
 
-I. Gliederungen – Dokument Nr. 2
+I. Gliederungen – Dokument Nr. 2
 
 5
 
@@ -6562,7 +6562,7 @@ Eigenart der einzelnen Industrien; Stufen der Exaktheit der Selbstkostenkalkulat
 Interesses daran: z. B. Einwirkung fester Kartellpreise
 auf Ersparnis an Kalkulationsgenauigkeit, und umgekehrt Einwirkung des Interesses an genauer Kalkulation auf die Spezialisierung; Bilanzierungsprinzipien,
 
-150
+150
 
 A5
 
@@ -6605,7 +6605,7 @@ staatlichen Agrarpolitik). (Prof. Wittich.)
 2. Betriebslehre der kapitalistischen Landwirtschaft (Besonderheiten der Kalkulation im Landwirtschaftsbetrieb; das
 Gesetz des abnehmenden Bodenertrags nach Sinn und
 
-I. Gliederungen – Dokument Nr. 2
+I. Gliederungen – Dokument Nr. 2
 
 151
 
@@ -6644,7 +6644,7 @@ X.
 Versicherungswesen (Funktion und kalkulatorische Grund35
 lagen; die Versicherung als Erwerbsgeschäft und ihr Verhältnis zur gemeinwirtschaftlichen Schadendeckung; die einzelnen Hauptzweige der Versicherung und ihre spezifischen
 
-152
+152
 
 Dokumente
 
@@ -6683,8 +6683,8 @@ Arten und Tragweite der Hemmungen, Reflexwirkungen
 und Rückschläge der kapitalistischen Entwicklung. (Prof. 15
 Max Weber.)
 Kapitalismus und Bevölkerungsgruppierung.
-a)	Gewerblicher Kapitalismus und Bevölkerungsgruppierung. (Prof. Alfred Weber.)
-b)	Agrarkapitalismus und Bevölkerungsgruppierung. (Prof. 20
+a)	Gewerblicher Kapitalismus und Bevölkerungsgruppierung. (Prof. Alfred Weber.)
+b)	Agrarkapitalismus und Bevölkerungsgruppierung. (Prof. 20
 Max Weber.)
 Kapitalismus und Bevölkerungsqualität (moderne Degenerationsprobleme, soweit sie mit der Eigenart des Kapitalismus zusammenhängen). (Noch unbestimmt.)
 Kapitalismus und Einkommensverteilung. (Noch unbe- 25
@@ -6697,7 +6697,7 @@ Kapitalismus und Mittelstand.
 1. Mittelstandsschutzpolitik (gewerbliche Zunftpolitik im
 weitesten Sinne des Wortes; Detaillistenpolitik; bäuerli-
 
-I. Gliederungen – Dokument Nr. 2
+I. Gliederungen – Dokument Nr. 2
 
 153
 
@@ -6732,7 +6732,7 @@ VIII. Die antikapitalistischen Massenbewegungen der Gegenwart
 gung). (Prof. Michels.)
 IX. Die Tendenzen zur inneren Umbildung des Kapitalismus. (Monopolistische, gemeinwirtschaftliche und bureaukratisierende Entwicklungstendenzen in ihren gesellschaftlichen Rück-
 
-154
+154
 
 Dokumente
 
@@ -6741,7 +6741,7 @@ schaft­lichen Umgliederung.) (Prof. Alfred und event. Max
 Weber.)
 Index. |
 
-I. Gliederungen – Dokument Nr. 3
+I. Gliederungen – Dokument Nr. 3
 
 155
 
@@ -6767,7 +6767,7 @@ type wiedergegeben, die Zusätze Max Webers in größerer Schrifttype und mit
 textkritischer Annotation. Von Max Weber Unterstrichenes ist kursiv gesetzt,
 während die Unterstreichungen von dritter Hand unberücksichtigt bleiben.
 
-156
+156
 A (1)
 
 Dokumente
@@ -6914,7 +6914,7 @@ a Eigenhändige Korrektur: ,1: > I,1:
 c Ei­gen­hän­dige Korrektur: ,2: > I,2: d Eigenhändiger Zusatz. e Eigenhändige Markie­
 rung und Randbemerkung. f Eigenhändiger Zusatz.
 
-157
+157
 
 I. Gliederungen – Dokument Nr. 3
 Abschnitt
@@ -7037,7 +7037,7 @@ g Eigenhändige Randbemer­kung zur großen eigenhändigen Klammer. h Ei­gen­h
 Randbemerkung zur kleinen eigenhändigen Klammer. i Von Weber eigenhändig gestri­
 chen. j Eigenhändige Klammer und Randbemerkung mit Fußnote. k Klammer fehlt in A.
 
-158
+158
 
 Dokumente
 
@@ -7154,7 +7154,7 @@ l – l Eigenhändige Klammer und Randbemerkung. m Klammer fehlt in A. n Eigenh�
 ge Klammer und Rand­be­merkung. o– o Eigenhändiger Zusatz. p A: zweifach unterstri­
 chen.
 
-159
+159
 
 I. Gliederungen – Dokument Nr. 3
 Abschnitt
@@ -7307,7 +7307,7 @@ q Eigenhändige Klammer und Randbemerkung.
 
 10
 
-160
+160
 
 Dokumente
 
@@ -7504,7 +7504,7 @@ b.uns
 r Eigenhändige Klammer und Randbemerkung. s Eigenhändige Klammer und Rand­
 bemerkung.  
 
-161
+161
 
 I. Gliederungen – Dokument Nr. 3
 Abschnitt
@@ -7602,7 +7602,7 @@ b.M.W.
 
 A (7)
 
-162
+162
 
 Dokumente
 
@@ -7706,7 +7706,7 @@ M.Weber
 3
 25
 
-I. Gliederungen – Dokument Nr. 4
+I. Gliederungen – Dokument Nr. 4
 
 163
 
@@ -7738,7 +7738,7 @@ unterzeichnet und somit von Max Weber als dem Schriftleiter autorisiert. Für
 die im Anschluß abgedruckte „Einteilung des Gesamtwerkes“ trägt er ebenfalls die Mitverantwortung, so daß beide Texte in normaler Schriftgröße ediert
 werden. Für die Textwiedergabe gelten die oben, S.  135, genannten Regeln.
 
-164
+164
 A VII
 
 Dokumente
@@ -7782,7 +7782,7 @@ I) auch eine systematische Erkenntnistheorie der Sozialwissen­
 schaften – welche, ebenso wie die materiale ökonomische Kultur­
 soziologie, einem besondern Beiheft vorbehalten bleibt – in das
 
-I. Gliederungen – Dokument Nr. 4
+I. Gliederungen – Dokument Nr. 4
 
 165
 
@@ -7826,7 +7826,7 @@ Mitherausgeber teils ganz bedeutende Verzögerungen, teils aber
 auch definitives Ausscheiden und damit, in schon vorgerücktem
 Stadium, die Notwendigkeit der Gewinnung neuer Teilnehmer, und
 
-166
+166
 
 Dokumente
 
@@ -7870,7 +7870,7 @@ aufgegeben werden. Auch die in zweiter Linie gehegte Hoffnung,
 das neue Werk, trotz des Fehlens einer Anlehnung an das ältere,
 wenigstens als eine Art „Ersatz“ dafür ausgestalten zu können,
 
-I. Gliederungen – Dokument Nr. 4
+I. Gliederungen – Dokument Nr. 4
 
 167
 
@@ -7904,7 +7904,7 @@ Heidelberg und Tübingen, 2. Juni 1914.
 		
 Schriftleitung und Verlag. 
 
-168
+168
 
 Dokumente
 
@@ -7968,7 +7968,7 @@ Ordnungen und Mächte.
 
 30
 
-I. Gliederungen – Dokument Nr. 4
+I. Gliederungen – Dokument Nr. 4
 
 5
 
@@ -8034,7 +8034,7 @@ Kapitalismus.
 a In A geht wegen des Seitenumbruchs voraus: Erstes Buch: C. Wirtschaft und Gesellschaft.
 (Fortsetzung).
 
-170
+170
 
 Abteilung
 IV
@@ -8103,7 +8103,7 @@ b In A geht wegen des Seitenumbruchs voraus: Drittes Buch: A. Güterverkehr. (Fo
 
 30
 
-I. Gliederungen – Dokument Nr. 4
+I. Gliederungen – Dokument Nr. 4
 
 II. Kreditbankwesen.
 I. Organisation der Kreditbanken. Deutsches
@@ -8185,7 +8185,7 @@ IX. Wohnungsproduktion und städtische
 Bodenpreisbildung.
 		
 
-172
+172
 
 Dokumente
 
@@ -8257,7 +8257,7 @@ VI. Der Mittelstand im kapitalistischen Zeit
 			 Mittelstandsschutzpolitik in Gewerbe und
 			 Handel.
 
-I. Gliederungen – Dokument Nr. 4
+I. Gliederungen – Dokument Nr. 4
 
 5
 
@@ -8303,11 +8303,11 @@ X. Die Tendenzen zur inneren Umbildung
 und die Zukunftschancen des Kapitalis			
 mus. 
 
-174
+174
 
 Dokumente
 
-II. Rundschreiben und Titel – Dokument Nr. 5
+II. Rundschreiben und Titel – Dokument Nr. 5
 
 175
 
@@ -8339,7 +8339,7 @@ gemeinsamen Unternehmens schon jetzt :an: das Herannahen des
 Termins für die Ablieferung der Manuskripte ergebenst zu erinnern. Auf sehr dringlichen Wunsch einiger Herren, welche besona Mitarbeiter > Mitherausgeber b Mitarbeiter > Mitherausgeber c für > der d In A
 folgt: 〈vermutlich〉 e In A folgt: 〈treffen〉
 
-176
+176
 
 Dokumente
 
@@ -8359,7 +8359,7 @@ Handbuchs der Pol[itischen] Ökonomie 
 f In A folgt: 〈jedenfalls ein〉 g In A folgt: 〈wir〉 h In A folgt: 〈derselben〉 i In A folgt:
 〈ka〉 j In A folgt: 〈, da〉 k beiden > einzelnen
 
-II. Rundschreiben und Titel – Dokument Nr. 6
+II. Rundschreiben und Titel – Dokument Nr. 6
 
 177
 
@@ -8391,7 +8391,7 @@ oben „sub Max Weber“ und unten von der Hand Oskar Siebecks: „Soll vielleic
 und den gewiß manche Herren verlegt haben, mit diesem Anschreiben nochmals verschickt werden?“ Neben diese Frage setzte Max Weber einen senkrechten Doppelstrich und ein doppelt unterstrichenes „ja“. B enthält jeweils
 den Adressaten mit Anschrift sowie die Unterschrift von Oskar Siebeck.
 
-178
+178
 
 Dokumente
 
@@ -8426,7 +8426,7 @@ Tübingen, den ……. 
 a Eigenhändiger Zusatz. b Ehe Herr Professor Max Weber die Manuscripte durchsieht,
 > Die Manuskripte c dieselben > beim Eingang zunächst d Eigenhändige Hervorhebung. e Ich bitte > Wir bitten f Komma eigenhändig eingefügt. g Eigenhändiger Zusatz. h Eigenhändige Hervorhebung.
 
-II. Rundschreiben und Titel – Dokument Nr. 6
+II. Rundschreiben und Titel – Dokument Nr. 6
 
 179
 27. Februar 1912. B (1)
@@ -8454,7 +8454,7 @@ Handbuch der politischen Ökonomie entspricht.
 In vorzüglicher Hochachtung ergebenst
 J. C. B. Mohr (Paul Siebeck) 
 
-180
+180
 
 Dokumente
 
@@ -8487,14 +8487,14 @@ Verlag zurückgehen, werden in kleinerer Schrifttype wiedergegeben, Max
 Webers Zusätze in A2 erscheinen in normaler Schrifttype, und Streichungen
 in seinen Zusätzen sind textkritisch annotiert. Bei A2 findet sich auf dem
 
-II. Rundschreiben und Titel – Dokument Nr. 7
+II. Rundschreiben und Titel – Dokument Nr. 7
 
 181
 
 ersten Blatt ein handschriftlicher Kopfvermerk des Verlages „sub M. Weber
 11.6.12“.
 
-182
+182
 A1 [1]
 
 Dokumente
@@ -8518,7 +8518,7 @@ in jenem Irrtum befunden hat, so erklären wir, daß wir bereit sind, diese Herr
 A1 2 von den unter irrtümlichen Voraussetzungen eingegangenen Verpflichtungen zu ent- 15
 binden.
 
-II. Rundschreiben und Titel – Dokument Nr. 7
+II. Rundschreiben und Titel – Dokument Nr. 7
 Heidelberg – Tübingen, den
 
 183
@@ -8559,7 +8559,7 @@ zu können, Bezug genommenf werden, und es ist dabei gelegentlich wohl auchg erw
 a jetzt beabsichtigten > ausdrücklich vorgesehenen b In A2 folgt: 〈gehegt haben, und〉
 c In A2 folgt: 〈daraus〉 d In A2 folgt: 〈außer〉 e In A2 folgt: 〈ist daher〉 f In A2 folgt: 〈worden〉 g In A2 folgt: 〈gesagt〉 h In A2 folgt: 〈durch〉
 
-184
+184
 
 Dokumente
 
@@ -8568,7 +8568,7 @@ Professor Dr. Max Weber.
 
 J. C. B. Mohr (Paul Siebeck). 
 
-II. Rundschreiben und Titel – Dokument Nr. 7
+II. Rundschreiben und Titel – Dokument Nr. 7
 
 185
 
@@ -8582,7 +8582,7 @@ Unterschriften 
 
 i In A2 folgt: 〈solle〉
 
-186
+186
 
 Dokumente
 
@@ -8613,7 +8613,7 @@ Unterstreichungen sind handschriftlich vorgenommen. Die Maschinenschrift
 in B führt ß, aber kein Ä; hier sind alle Unterstreichungen maschinenschriftlich. Während die Entwurfsfassung von Webers Hand paginiert ist, fehlt eine
 Paginierung in B. Diese wird vom Herausgeber in Klammern hinzugefügt.
 
-II. Rundschreiben und Titel – Dokument Nr. 8
+II. Rundschreiben und Titel – Dokument Nr. 8
 
 187
 
@@ -8657,7 +8657,7 @@ tiefbeklagenswerten p A: keine Person A1: keine Person q Anführungszeichen fehl
 A. r A: ohne. s Komma fehlt in A, A1. t A, A1: 2, u Fehlt in A. v A: hat w A: keinen x A: Verzögerung. y In A folgt: , welche ebenso für die Verzögerung verantwortlich
 ist, Gestrichene Korrektur in A1: ist > sind
 
-188
+188
 
 Dokumente
 
@@ -8692,7 +8692,7 @@ Todesfalls und einiger der erwähnten Krankheitsfälle noch nachträglich, und z
 haben x Fehlt in A. y A: andere a In A folgt: zum Teil b in A1 folgt: 〈, selb〉 c Fehlt
 in A. d In A folgt: innerhalb e In A folgt: wird f A: von den A1: einige der > die
 
-II. Rundschreiben und Titel – Dokument Nr. 8
+II. Rundschreiben und Titel – Dokument Nr. 8
 
 189
 
@@ -8735,7 +8735,7 @@ warten müßten. Ein Kontakt zwischen den Herren Autoren benachbarter Teilgebiet
 dem gleichen Grunde ebenfalls oft nicht in die Wege zu leiten [.] b In A folgt: mehr c – c
 (S. 190) A: die unumgängliche
 
-190
+190
 
 Dokumente
 
@@ -8761,7 +8761,7 @@ lMAX WEBER.l 
 
 d A: Ganzes e Fehlt in A. f A, A1: voraussetzen: g A, A1: wird: h A: hat i A: vorgeschlagen k Fehlt in A, A1. l Fehlt in A; A1: Max Weber
 
-II. Rundschreiben und Titel – Dokument Nr. 9
+II. Rundschreiben und Titel – Dokument Nr. 9
 
 191
 
@@ -8792,7 +8792,7 @@ hier nicht gesondert ausgewiesen werden. Die Zusätze Max Webers werden
 in größerer Schrifttype und mit textkritischer Annotation wiedergegeben.
 Seine Fußnoten sind arabisch numeriert; die des Verlagsentwurfs entsprechend der Vorlage. Die Seitenzahlen in runden Klammern stammen vom Herausgeber.
 
-192
+192
 
 Dokumente
 
@@ -8839,7 +8839,7 @@ könne, wenn das Format sich vergrößert. Sonst einverstanden. Max
 Weber 
 a Eigenhändiger Zusatz. b A: ihrem c – c Passus von Weber gestrichen. d Eigenhändige Hervorhebung. e Eigenhändiger Zusatz. f Index und Anmerkung eigenhändig. g – g Eigenhändiger Zusatz.
 
-II. Rundschreiben und Titel – Dokument Nr. 9
+II. Rundschreiben und Titel – Dokument Nr. 9
 
 193
 
@@ -8863,7 +8863,7 @@ Max Weber. 
 h Eigenhändige Hervorhebung. i Index und Anmerkung eigenhändig. k In A folgt:
 〈so〉
 
-194
+194
 
 Dokumente
 
@@ -8893,7 +8893,7 @@ Schrifttype wiedergegeben, die Änderungen von dritter Hand werden mittels
 diakritischer Zeichen als Einfügungen oder Streichungen kenntlich gemacht.
 Max Webers Korrekturen und Zusätze werden in größerer Schrifttype wiedergegeben und zusätzlich textkritisch annotiert.
 
-II. Rundschreiben und Titel – Dokument Nr. 10
+II. Rundschreiben und Titel – Dokument Nr. 10
 
 195
 
@@ -8936,11 +8936,11 @@ a Eigenhändige Korrektur zu 1912. Doppelter Senkrechtstrich am linken Rand mit 
 1911, wobei 11 doppelt unterstrichen ist. b Von Max Weber gestrichen. c Eigenhändiger Zusatz (dieser ist von dritter Hand unten auf dem Blatt wiederholt) und eigenhändige Randbemerkung: wenn Sie so wollen. Sonst auch mit jetziger Fassung einverstanden.
 d – d Passage von Max Weber gestrichen; zusätzlich am Rand: unterstrichenes Löschsymbol und Ausrufezeichen. e Eigenhändige Hervorhebung und Fragezeichen. f Eigenhändige Korrektur zu: dieser Sache.
 
-196
+196
 
 Dokumente
 
-III. Verlagsverträge – Dokument Nr. 11
+III. Verlagsverträge – Dokument Nr. 11
 
 197
 
@@ -8969,7 +8969,7 @@ der Zusatz von dritter Hand „sub Max Weber“ sowie der Hinweis neben dem
 Titel „s.u. Br. v. 6.11.09“. Unterstreichungen und weitere Randbemerkungen,
 die auf den Verlag zurückgehen, bleiben unberücksichtigt.
 
-198
+198
 A (1)
 
 Dokumente
@@ -9016,7 +9016,7 @@ des „Handbuchs der politischen Ökonomie“ nach Möglichkeit vermieden werden
 die Herren Mitarbeiter Herrn Professor Max Weber möglichst bis zum …… genaue Dispositionen der von ihnen übernommenen Abschnitte vorlegen. Herr Professor Max Weber wird
 alsdann den Herren Mitarbeitern, soweit das im Interesse der Einheitlichkeit des Werkes erforderlich ist, Vorschläge für Abänderung oder Ergänzung der Dispositionen machen.
 
-III. Verlagsverträge – Dokument Nr. 11
+III. Verlagsverträge – Dokument Nr. 11
 
 199
 
@@ -9069,7 +9069,7 @@ Nach Ablauf der Frist steht es der Verlagsbuchhandlung frei, vom Vertrage zurüc
 Herr Professor Max Weber wird dann im Einverständnis mit der Verlagsbuchhandlung einen
 anderen Bearbeiter berufen.
 
-200
+200
 
 Dokumente
 
@@ -9113,7 +9113,7 @@ sich nicht zu beteiligen.
 t Im Entwurf folgt: auf Wunsch u Im Entwurf: Die Zeitschriften der beiden Verlage sind
 bei dieser Begünstigung eingeschlossen v Zusatz Max Webers.
 
-III. Verlagsverträge – Dokument Nr. 11
+III. Verlagsverträge – Dokument Nr. 11
 
 201
 
@@ -9153,7 +9153,7 @@ von dem betreffenden Herrn Mitarbeiter selbst, sondern für ihn von einem Dritte
 der Weise geregelt, daß der für die Bearbeitung zu zahlende Beitrag von dem Honorar abzuziehen ist, welches dem früheren Mitarbeiter, bezw. seinen Erben und Rechtsnachfolgern,
 zusteht. Doch soll dieser Abzug im Krankheitsfalle nicht mehr als die Hälfte des in § 3 festgesetzten Honorars betragen.
 
-202
+202
 
 Dokumente
 
@@ -9166,7 +9166,7 @@ Exemplaren ausgefertigten Verlagsvertrag 
 
 5
 
-203
+203
 
 III. Verlagsverträge – Dokument Nr. 12
 
@@ -9214,7 +9214,7 @@ als Verlagseigentümerin des Sammelwerkes andererseits
 ist heute nachstehender Verlagsvertrag abgeschlossen worden:
 a Eigenhändiger Zusatz.
 
-204
+204
 
 Dokumente
 
@@ -9259,7 +9259,7 @@ Verlagsbuchhandlung dadurch Rechnung, daß sie von dem Zeitaufwand, der durch
 nachträgliche, von der Druckerei nicht verschuldete Satzänderungen in der zweiten 40
 b Eigenhändiger Zusatz und Randbemerkung Max Webers: NB! Für Herrn von Wieser: 1. April 1912 (laut Ihrer mitgeteilter besonderer Vereinbarung)
 
-III. Verlagsverträge – Dokument Nr. 12
+III. Verlagsverträge – Dokument Nr. 12
 
 205
 
@@ -9302,7 +9302,7 @@ Zusammensetzung des Werkes oder seiner Disposition eintreten sollen, verlangen,
 daß der Mitarbeiter die Behandlung eines bestimmt zu bezeichnenden Unterteils seines Themas erforderlichen Falles unterlasse. Daß er neue Themata einbeziehe, darf
 sie nicht verlangen.
 
-206
+206
 
 Dokumente
 
@@ -9325,7 +9325,7 @@ Exemplaren ausgefertigten Verlagsvertrag
 .................. den ..................
 Tübingen, den .................. 
 
-III. Verlagsverträge – Dokument Nr. 13
+III. Verlagsverträge – Dokument Nr. 13
 
 207
 
@@ -9354,7 +9354,7 @@ werden in kleinerer Schrifttype wiedergegeben, die Korrekturen und Zusätze
 Max Webers in größerer Schrift und mit textkritischer Annotation. Für die Textwiedergabe gelten die oben, S.  135, genannten Regeln. Die Seitenzahlen in
 runden Klammern stammen vom Herausgeber.
 
-208
+208
 
 Dokumente
 
@@ -9402,7 +9402,7 @@ I. Herr :Professor Dr. Spann: verpflichtet sich, den in §  2 für die
 a Ökonomie eigenhändig verbessert zu Ökonomik. Das k ist mehrfach unterstrichen. b : Produktion und Bedarf: von Max Weber geändert zu: Konjunkturen und
 Krisen. c Eigenhändiger Zusatz.
 
-III. Verlagsverträge – Dokument Nr. 13
+III. Verlagsverträge – Dokument Nr. 13
 
 209
 
@@ -9453,7 +9453,7 @@ lagsbuchhandlung andererseits, geteilt.
 d Eigenhändige Korrektur von April zu Mai und doppelter Senkrechtstrich am Rand
 und Wiederholung: 1. Mai
 
-210
+210
 
 Dokumente
 
@@ -9499,7 +9499,7 @@ J. C. B. Mohr (Paul Siebeck).: 
 
 e Eigenhändiger Zusatz.
 
-III. Verlagsverträge – Dokument Nr. 14
+III. Verlagsverträge – Dokument Nr. 14
 
 211
 
@@ -9536,7 +9536,7 @@ Verlag von J. C. B. Mohr (Paul Siebeck).
 Zwischen
 Herrn . . . . . . . . . . . . . . einerseits
 
-212
+212
 
 Dokumente
 und der
@@ -9577,7 +9577,7 @@ umgehender Erledigung und Rücksendung der Korrekturen verpflichtet.
 a Handschriftliche Bemerkung Max Webers: Beizulegen wäre 〈der〉 eventuell 〈der〉 ein Abzug der „Einteilung“, wie sie am Schluß der Abteilungen erscheinen soll. b Passage von
 Max Weber gestrichen.
 
-III. Verlagsverträge – Dokument Nr. 14
+III. Verlagsverträge – Dokument Nr. 14
 
 213
 
@@ -9615,7 +9615,7 @@ Herren Mitarbeitern gemeinschaftlich pro rata ihrer Beiträge einerseits und der
 c – c Passage von Max Weber durch zwei Senkrechtstriche am Rand markiert. d – d Passage von Max Weber mit einem Senkrechtstrich markiert und mit Randbemerkung versehen: werde ich auch ohne neuen Vertrag genehmigen, kraft vorstehender Bestimmung. M. W.
 Von dieser führt ein Pfeil auf die Markierung des vorangehenden Absatzes.
 
-214
+214
 
 Dokumente
 
@@ -9661,7 +9661,7 @@ Exemplaren ausgefertigten Verlagsvertrag
 .................. den ...............
 Tübingen, den ............... |
 
-III. Verlagsverträge – Dokument Nr. 15
+III. Verlagsverträge – Dokument Nr. 15
 
 215
 
@@ -9704,7 +9704,7 @@ vertreten durch ihren Besitzer, Herrn Dr. Paul Siebeck, in Tübingen,
 als Verlagseigentümerin des Sammelwerkes andererseits
 ist heute nachstehender Verlagsvertrag abgeschlossen worden:
 
-216
+216
 
 Dokumente
 
@@ -9750,7 +9750,7 @@ nachträgliche, von der Druckerei nicht verschuldete Satzänderungen in der zwei
 und den folgenden Korrekturen verursacht wird, die Kosten für durchschnittlich sechs
 Stunden pro Bogen auf ihr Konto übernimmt.
 
-III. Verlagsverträge – Dokument Nr. 15
+III. Verlagsverträge – Dokument Nr. 15
 
 217
 
@@ -9795,7 +9795,7 @@ daran gehindert erscheint, den Abschnitt dem neuesten Stande der Forschung entsp
 zu halten nicht bereit ist. Die Verlagsbuchhandlung darf, wenn Änderungen in der
 45 Zusammensetzung des Werkes oder seiner Disposition eintreten sollen, verlangen,
 
-218
+218
 
 Dokumente
 
@@ -9823,7 +9823,7 @@ Tübingen, den :23. Mai 1910: :J. C. B. Mohr Paul Siebeck: 
 
 25
 
-III. Verlagsverträge – Dokument Nr. 16
+III. Verlagsverträge – Dokument Nr. 16
 
 219
 
@@ -9860,7 +9860,7 @@ Zwischen
 Herrn Professor Dr. Max Weber in München
 a Eigenhändiger Zusatz in schwarzer Tinte.
 
-220
+220
 
 Dokumente
 und der
@@ -9915,7 +9915,7 @@ b – b Eigenhändiger Zusatz in schwarzer Tinte. c Freilassungszeichen Max Webe
 von dritter Hand mit der Ziffer 10 in Rotstift überschrieben. d Eigenhändiger Zusatz in
 schwarzer Tinte.
 
-III. Verlagsverträge – Dokument Nr. 16
+III. Verlagsverträge – Dokument Nr. 16
 
 221
 
@@ -9961,7 +9961,7 @@ Webers von dritter Hand mit der Ziffer 10 in Rotstift überschrieben. i Handschr
 Einfügung; von der Hand Max Webers? j Handschriftliche Einfügung; von der Hand Max
 Webers? k Handschriftliche Einfügung; von der Hand Max Webers?
 
-222
+222
 
 Dokumente
 
@@ -10007,7 +10007,7 @@ wird. Werden für Übersetzungen irgend welche Entschädigungen erzielt, so wird
 Einnahme zu gleichen Teilen zwischen dem beteiligten Herrn Mitarbeiter, bzw. den
 Herren Mitarbeitern gemeinschaftlich pro rata ihrer Beiträge einerseits und der Verlagsbuchhandlung andererseits, geteilt.
 
-III. Verlagsverträge – Dokument Nr. 16
+III. Verlagsverträge – Dokument Nr. 16
 
 223
 
@@ -10056,7 +10056,7 @@ J. C. B. Mohr Paul Siebeck Dr. P. Siebeck:| 
 
 l Handschriftliche Markierung ohne Randtext; von der Hand Max Webers? m Eigenhändiger Zusatz in schwarzer Tinte.
 
-224
+224
 
 Dokumente
 
@@ -10094,7 +10094,7 @@ So­zialökonomik“ die Abteilung über
 §  2. Die 1. Auflage dieser Abteilung wird auf 4000 Exemplare festgesetzt. Der Herr
 Verfasser erhält für diese Auflage ein Honorar von Mk. 224.-, mit Worten Mark zweihundert vier und zwanzig, pro Druckbogen, zahlbar nach Druckvollendung jeder
 
-III. Verlagsverträge – Dokument Nr. 17
+III. Verlagsverträge – Dokument Nr. 17
 
 225
 
@@ -10114,7 +10114,7 @@ Tübingen, den 5. Dezember 1919 J. C. B. Mohr Paul Siebeck.
 
 a Eigenhändiger Zusatz. b Eigenhändige Unterschrift.
 
-226
+226
 
 Dokumente
 
@@ -10155,7 +10155,7 @@ Tübingen, den 16. Dezember 1920
 
 J. C. B. Mohr Paul Siebeck.
 
-III. Verlagsverträge – Dokument Nr. 19
+III. Verlagsverträge – Dokument Nr. 19
 
 227
 
@@ -10196,7 +10196,7 @@ verstorbenen Gatten, Herrn Professor Max Weber für den „Grundriß der Sozial�
 
 (1)
 
-228
+228
 
 Dokumente
 
@@ -10240,7 +10240,7 @@ Für die Festsetzung des Ladenpreises für den Einzelverkauf hat die Verlagsbuch
 zelpreis und Subskriptionspreis nicht außerhalb der bei den andern Abteilungen des
 „Grundrisses“ angenommenen Proportion liegen.
 
-III. Verlagsverträge – Dokument Nr. 19
+III. Verlagsverträge – Dokument Nr. 19
 
 229
 
@@ -10262,7 +10262,7 @@ Tübingen, den 1. Juni 1921.
 :Marianne Weber:
 :J. C. B. Mohr (Paul Siebeck).: 
 
-230
+230
 
 Dokumente
 
@@ -10299,7 +10299,7 @@ IX. Abteilung nach dem ursprünglichen Plan vollendet werden. Dagegen soll der I
 Abteilung schon in der ersten Auflage die von Herrn Professor Lederer entworfene,
 neue Disposition zu Grunde gelegt werden.
 
-III. Verlagsverträge – Dokument Nr. 20
+III. Verlagsverträge – Dokument Nr. 20
 
 231
 
@@ -10352,7 +10352,7 @@ handlung ist berechtigt, die Freiexemplare der Herren Mitarbeiter, sowie bis zu 
 40 der Auflage als Rezensionsexemplare nebst dem erforderlichen Zuschuß für Druck­
 defekte außerhalb der Auflage zu drucken.
 
-232
+232
 
 Dokumente
 
@@ -10371,7 +10371,7 @@ Verlagsbuchhandlung nicht entscheiden, ohne ihn bzw. seine Erben gehört zu habe
 folgern gewahrt. |
 10
 
-III. Verlagsverträge – Dokument Nr. 21
+III. Verlagsverträge – Dokument Nr. 21
 
 233
 
@@ -10412,7 +10412,7 @@ Als neue Einfügung kommt bei der zweiten Auflage an den Schluß des zweiten Hal
 
 (1)
 
-234
+234
 
 Dokumente
 
@@ -10447,7 +10447,7 @@ Tübingen, den 13. Februar 1925 :J. C. B. Mohr (Paul Siebeck).: 
 
 25
 
-235
+235
 
 IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 22
 
@@ -10483,7 +10483,7 @@ nachdem die Konsumenten befriedigt waren. Die Wiederausfuhr bereits zu Markte
 gestandener Güter war untersagt oder an Beschränkungen gebunden. Der Tauschverkehr mit Fremden konnte in sehr vielen Fällen nur durch Vermittlung der Untera Eigenhändiger Zusatz, dieser ersetzt die handschriftlich eingefügte Seitenangabe des
 Verlages. b Eigenhändiger Zusatz, von Weber wieder gestrichen.
 
-236
+236
 
 Dokumente
 
@@ -10525,7 +10525,7 @@ c4 (Seitenzahl des Beitrages, also: Büchers!)c 
 
 c Eigenhändiger Zusatz.
 
-IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 22
+IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 22
 d〈-5-〉d
 
 :Gewerbefreiheit:
@@ -10571,7 +10571,7 @@ Auf die Wirkungen des kapitalistischen Wirtschaftssystems kann hier nur ganz im
 d Eigenhändiger Zusatz, von Weber wieder gestrichen. e Eigenhändiger Zusatz, dieser
 ersetzt die handschriftlich eingefügte Seitenangabe des Verlages.
 
-238
+238
 
 Dokumente
 
@@ -10589,7 +10589,7 @@ f5
 
 f Eigenhändiger Zusatz.
 
-IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 23
+IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 23
 
 239
 
@@ -10628,7 +10628,7 @@ c
 a Von Max Weber gestrichen. b – b Eigenhändiger Zusatz, von Weber wieder gestrichen. c – c Eigenhändiger Zusatz, der sich auf die Streichung von Handel bezieht; vgl.
 textkritische Anm. a und d.
 
-240
+240
 
 Dokumente
 
@@ -10696,7 +10696,7 @@ d Von Max Weber gestrichen. e – e Eigenhändiger Zusatz. f Eigenhändiger Zusa
 
 25
 
-IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 24
+IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 24
 
 241
 
@@ -10733,7 +10733,7 @@ Teil ihres Verbrauchs fremder Hilfe; in der Volkswirtschaft ist sie entweder Pro
 a – a Eigenhändiger Zusatz. Darunter folgt die handschriftliche Bemerkung von Paul Siebeck: Die Seitenüberschriften (Col[umnen-]Titel) der ungeraden Seiten fügt am besten der
 Herr Autor (möglichst kurz gefaßt) ein. Dr. P. S.
 
-242
+242
 
 Dokumente
 
@@ -10771,7 +10771,7 @@ der Volkswirtschaft, wo fast der ganze Wirtschaftsertrag durch den Verkehr läuf
 Konsumtionsfonds, und nur ihre Ueberschüsse wachsen dem Vermögen zu.
 G e w e r b e ist in der Hauswirtschaft eigenwirtschaftliche Stoffveredlung, 
 
-IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 24
+IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 24
 18
 
 I. Buch I. K . B ü c h e r , Volkswirtschaftliche Entwicklungsstufen.
@@ -10798,7 +10798,7 @@ Unterschiede nur dem voll zum Bewußtsein gelangen, der die auf jeder Stufe vor
 20 herrschende Art zu wirtschaften, das Normale allein ins Auge faßt. Daß die einzelnen Stufen vielfältig in einander übergreifen, kann nicht auffallen; eher müßte das
 Gegenteil Wunder nehmen. 
 
-244
+244
 
 Dokumente
 
@@ -10848,7 +10848,7 @@ die reine Theorie haben könnte, hat sie kein Verständnis gezeigt. Dieser Gesic
 sei. Aber heute ist diese Auffassung so ziemlich überwunden und es ist (vgl. v. Schmoller, Art. Volkswirtschaft im H. d. St.) die Betonung der Tatsache getreten, daß die
 Einzelwirtschaften, die eine Volkswirtschaft ausmachen, in engen Wechselbeziehuna – a Eigenhändiger Zusatz.
 
-IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 25
+IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 25
 
 245
 
@@ -10890,7 +10890,7 @@ Galiani, aber vor allem bei C o n d i l l a c 1). Im 19. Jahrhundert 
 ______________
 1) Le commerce et le gouvernement considerés relativement l’un à l’autre 1776, eines der originellsten Werke des 18. Jahrhunderts. Als Nationalökonom steht Condillac auf den 
 
-246
+246
 
 Dokumente
 
@@ -10946,7 +10946,7 @@ an Ricardo. Sie erblickten in der Grenznutzentheorie eine Neuerung zweifelhaften
 Wertes und nahmen einen prinzipiellen Kampf gegen sie auf. Dabei gehörten ihnen
 b– b Eigenhändiger Zusatz, bezieht sich auf II. im Kolumnentitel.
 
-IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 25
+IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 25
 
 247
 
@@ -10964,7 +10964,7 @@ in vielen Beziehungen originellen Ausarbeitung. Dasselbe taten die Niederländer
 ______________
 15 Schultern der Physiokraten, deren Lehre er gerade in ihrem schwächsten Punkt, der Werttheorie glücklich ergänzt. Doch hatte das Buch nur geringen äußern Erfolg. 
 
-248
+248
 
 Dokumente
 
@@ -11012,7 +11012,7 @@ Bitte aber ohne nochmalige Rückfrage zu erledigen. Denn mir ist es 15
 recht. M. W. Es folgt die Randnotiz von Paul Siebeck: Ist von mir gemacht worden – lediglich damit bei Abt. I 16, bei Abtlg. II 12 Seiten, voll werden. P. S. 
 a Eigenhändiger Zusatz. b Eigenhändiger Index und Zusatz auf der unteren Blatthälfte.
 
-IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 26
+IV. Notizen von Max Weber zu anderen Beiträgen – Dokument Nr. 26
 Aufl. 1900; II. Nationalökonomik des
 Ackerbaues, 13. Aufl. 1903, herausgegeben von D a d e ; III. Nationalökonomik des Handels und Gewerbeflei5 ßes, 7. Aufl. 1899, herausgegeben von
 S t i e d a ; IV. System der Finanzwissenschaft, 5. Aufl. 1901.
@@ -11061,11 +11061,11 @@ Z. f. Stw. = Zeitschrift für die gesamte
 Staatswissenschaft.
 Z. f. Volksw. = Zeitschrift f. Volkswirtschaft, Sozialpolitik und Verwaltung.
 
-250
+250
 
 Dokumente
 
-Anhang zu den Dokumenten
+Anhang zu den Dokumenten
 
 251
 
@@ -11074,23 +11074,23 @@ Anhang zu den Dokumenten
 1. Übersicht über die unter der Schriftleitung von Max Weber er­schie­
 nenen Abteilungen des „Grundrisses der Sozialökonomik“
 I. Abteilung Wirtschaft und Wirtschaftswissenschaft
-  (1914)	Bearbeitet von K. Bücher, J. Schumpeter, Fr. Freiherrn von Wieser. –
+  (1914)	Bearbeitet von K. Bücher, J. Schumpeter, Fr. Freiherrn von Wieser. –
 Tübingen: J. C. B. Mohr (Paul Siebeck) 1914.
 Erstes Buch: Grundlagen der Wirtschaft
 A. Wirtschaft und Wirtschaftswissenschaft
-I.	Volkswirtschaftliche Entwicklungsstufen. Von Karl Bücher,
+I.	Volkswirtschaftliche Entwicklungsstufen. Von Karl Bücher,
 S.  1–18
-II.	Epochen der Dogmen- und Methodengeschichte. Von
+II.	Epochen der Dogmen- und Methodengeschichte. Von
 Joseph Schumpeter, S.  19–124
-III.	Theorie der gesellschaftlichen Wirtschaft. Von Friedrich
+III.	Theorie der gesellschaftlichen Wirtschaft. Von Friedrich
 Freiherrn von Wieser, S.  125–444
 II. Abteilung Die natürlichen und technischen Beziehungen der Wirtschaft
-  (1914)	Bearbeitet von Fr. von Gottl-Ottlilienfeld, H. Herkner, A. Hettner,
+  (1914)	Bearbeitet von Fr. von Gottl-Ottlilienfeld, H. Herkner, A. Hettner,
 R. Michels, P. Mombert, K. Oldenberg. – Tübingen: J. C. B. Mohr
 (Paul Siebeck) 1914.
 Erstes Buch: Grundlagen der Wirtschaft
 B. Die natürlichen und technischen Beziehungen der Wirtschaft
-I.	Die geographischen Bedingungen der menschlichen Wirtschaft. Von Al­fred Hettner, S.  1–31
+I.	Die geographischen Bedingungen der menschlichen Wirtschaft. Von Al­fred Hettner, S.  1–31
 II.
 Wirtschaft und Bevölkerung
 		
@@ -11101,32 +11101,32 @@ b)
 Wirtschaft und Rasse. Von Robert Michels, S.  97–102
 III.
 Die Konsumtion. Von Karl Oldenberg, S.  103–164
-IV.	Arbeit und Arbeitsteilung. Von Heinrich Herkner, S.  165–198
-V.	Wirtschaft und Technik. Von Friedrich von Gottl-Ottlilienfeld, S.  199–381
+IV.	Arbeit und Arbeitsteilung. Von Heinrich Herkner, S.  165–198
+V.	Wirtschaft und Technik. Von Friedrich von Gottl-Ottlilienfeld, S.  199–381
 VI. Abteilung Industrie, Bergwesen, Bauwesen
-  (1914)	Bearbeitet von E. Gothein, Fr. Leitner, E. Schwiedland, H. Sieveking, Th. Vogelstein, Adolf Weber, Alfred Weber, M. Weyermann,
+  (1914)	Bearbeitet von E. Gothein, Fr. Leitner, E. Schwiedland, H. Sieveking, Th. Vogelstein, Adolf Weber, Alfred Weber, M. Weyermann,
 O. von Zwiedineck-Südenhorst. – Tübingen: J. C. B. Mohr (Paul Siebeck) 1914.
 
-252
+252
 
 Anhang zu den Dokumenten
 
-	Drittes Buch: Die einzelnen Erwerbsgebiete in der kapitalistischen
+	Drittes Buch: Die einzelnen Erwerbsgebiete in der kapitalistischen
 Wirtschaft und die ökonomische Binnenpolitik im modernen Staate
 B. Güterproduktion
 I. Industrie, Bergwesen, Bauwesen
-I.	Geschichte der gewerblichen Betriebsformen und der zünftigen, städtischen und staatlichen Gewerbepolitik. Von Heinrich Sieveking, S.  1–23
-II.	Der Wettkampf der gewerblichen Betriebsformen. Von
+I.	Geschichte der gewerblichen Betriebsformen und der zünftigen, städtischen und staatlichen Gewerbepolitik. Von Heinrich Sieveking, S.  1–23
+II.	Der Wettkampf der gewerblichen Betriebsformen. Von
 Eugen Schwiedland, S.  24–53
-III.	Industrielle Standortslehre. (Allgemeine und kapitalistische
+III.	Industrielle Standortslehre. (Allgemeine und kapitalistische
 Theorie des Standortes.) Von Alfred Weber, S.  54–82
-IV.	Betriebslehre der kapitalistischen Großindustrie. Von Friedrich Leitner, S.  83–135
-V.	Die ökonomische Eigenart der modernen gewerblichen
+IV.	Betriebslehre der kapitalistischen Großindustrie. Von Friedrich Leitner, S.  83–135
+V.	Die ökonomische Eigenart der modernen gewerblichen
 Technik. Von Moritz Rudolf Weyermann, S.  136–186
-VI.	Die finanzielle Organisation der kapitalistischen Industrie
+VI.	Die finanzielle Organisation der kapitalistischen Industrie
 und die Monopolbildungen. Von Theodor Vogelstein, S.  187–
 246
-VII.	Arbeitsbedarf und Lohnpolitik der modernen kapitalistischen Industrien. Von Otto von Zwiedineck-Südenhorst,
+VII.	Arbeitsbedarf und Lohnpolitik der modernen kapitalistischen Industrien. Von Otto von Zwiedineck-Südenhorst,
 S.  247–281
 VIII. Bergbau. Von Eberhard Gothein, S.  282–349
 IX.
@@ -11137,14 +11137,14 @@ V. Abteilung
 Die einzelnen Erwerbsgebiete in der kapitalistischen Wirtschaft und
 die ökonomische Binnenpolitik im modernen Staate
 II. Teil: Bankwesen
-	Bearbeitet von G. v. Schulze-Gaevernitz, E. Jaffé. – Tübingen: J. C. B.
+	Bearbeitet von G. v. Schulze-Gaevernitz, E. Jaffé. – Tübingen: J. C. B.
 Mohr (Paul Siebeck) 1915
-	Drittes Buch: Die einzelnen Erwerbsgebiete in der kapitalistischen
+	Drittes Buch: Die einzelnen Erwerbsgebiete in der kapitalistischen
 Wirtschaft und die ökonomische Binnenpolitik im modernen Staate
 A. Güterverkehr
 II. Bankwesen
-I.	Die deutsche Kreditbank. Von Gerhart v. Schulze-Gaevernitz, S.  1–189
-II.	Das englisch-amerikanische und das französische Bankwesen. Von Edgar Jaffé, S.  191–222
+I.	Die deutsche Kreditbank. Von Gerhart v. Schulze-Gaevernitz, S.  1–189
+II.	Das englisch-amerikanische und das französische Bankwesen. Von Edgar Jaffé, S.  191–222
 
 V. Abteilung
   (1918)
@@ -11152,57 +11152,57 @@ V. Abteilung
 Die einzelnen Erwerbsgebiete in der kapitalistischen Wirtschaft und
 die ökonomische Binnenpolitik im modernen Staate
 I. Teil: Handel 1. 2
-	Bearbeitet von H. Sieveking, J. Hirsch. – Tübingen: J. C. B. Mohr
+	Bearbeitet von H. Sieveking, J. Hirsch. – Tübingen: J. C. B. Mohr
 (Paul Siebeck) 1918
 
-Anhang zu den Dokumenten
+Anhang zu den Dokumenten
 
 253
 
-	Drittes Buch: Die einzelnen Erwerbsgebiete in der kapitalistischen
+	Drittes Buch: Die einzelnen Erwerbsgebiete in der kapitalistischen
 Wirtschaft und die ökonomische Binnenpolitik im modernen Staate
 A. Güterverkehr
 I. Handel
-I.	Entwicklung, Wesen und Bedeutung des Handels. Von Heinrich Sieveking, S.  1–38
-II.	Organisation und Formen des Handels und der staatlichen
+I.	Entwicklung, Wesen und Bedeutung des Handels. Von Heinrich Sieveking, S.  1–38
+II.	Organisation und Formen des Handels und der staatlichen
 Binnenhandelspolitik. Von Julius Hirsch, S.  39–235
 
-254
+254
 
 Anhang zu den Dokumenten
 
 2. Titelblatt zur 1. Lieferung von Max Webers Beitrag zum „Grundriß
 der Sozialökonomik“ 1921
 
-Anhang zu den Dokumenten
+Anhang zu den Dokumenten
 
 255
 
-256
+256
 
 Anhang zu den Dokumenten
 
 3. Titelblatt zur Erstausgabe von „Wirtschaft und Gesellschaft“ 1922
 
-Anhang zu den Dokumenten
+Anhang zu den Dokumenten
 
 257
 
-258
+258
 
 Anhang zu den Dokumenten
 
-MWG Abteilung I: Aufbau und Editionsregeln
+MWG Abteilung I: Aufbau und Editionsregeln
 
 Register
 
 259
 
-260
+260
 
 MWG Abteilung I: Aufbau und Editionsregeln
 
-Personenregister
+Personenregister
 
 Auf Personen in den Texten des Herausgebers wird mit kursiven Seitenzahlen, in den
 Dokumenten mit geraden Seitenzahlen hingewiesen.
@@ -11281,7 +11281,7 @@ Leist, Gerhard Alexander 146, 157, 189
 Leitner, Friedrich 146, 150, 157, 160, 189,
 251 f.
 
-262
+262
 
 Register
 
@@ -11381,7 +11381,7 @@ Weber, Marianne 43–46, 55, 59, 63 f.,
 92–107, 109–115, 121–125, 135,
 226–230, 233 f.
 
-Personenregister
+Personenregister
 Weber, Max
 –, Abriß der universalen Sozial- und
 Wirtschaftsgeschichte (Vorlesung
@@ -11392,35 +11392,35 @@ Wirtschaftsgeschichte (Vorlesung
 –, Allgemeine („theoretische“) Nationalökonomie (Vorlesungen 1894–1898)
 21, 28, 30 f., 126
 – als Autor des Handbuchs/GdS (eingeplante Beiträge)
-–,	Agrarkapitalismus und Bevölkerungsgruppierung 152, 161
-–,	Allgemeine Bedeutung des modernen Nachrichtenwesens 39, 170
-–,	Allgemeine Bedeutung der modernen Verkehrsbedingungen und des
+–,	Agrarkapitalismus und Bevölkerungsgruppierung 152, 161
+–,	Allgemeine Bedeutung des modernen Nachrichtenwesens 39, 170
+–,	Allgemeine Bedeutung der modernen Verkehrsbedingungen und des
 modernen Nachrichtenwesens für
 die kapitalistische Wirtschaft 147
-–,	Arten und Tragweite der Hemmungen, Reflexwirkungen und
+–,	Arten und Tragweite der Hemmungen, Reflexwirkungen und
 Rückschläge der kapitalistischen
 Entwicklung 152
-–,	Der Bauernstand und die Bauernschutzpolitik 39, 173
-–,	Grenzen des Kapitalismus in der
+–,	Der Bauernstand und die Bauernschutzpolitik 39, 173
+–,	Grenzen des Kapitalismus in der
 Landwirtschaft 151, 160
 –, Innere Kolonisationspolitik 153
-–,	Kapitalismus und Bevölkerungsgruppierung 39, 152
+–,	Kapitalismus und Bevölkerungsgruppierung 39, 152
 –, Mittelstandsschutzpolitik 152 f., 161
-–,	Der moderne Staat und der Kapitalismus 115, 146
-–,	Die moderne Staatsordnung und der
+–,	Der moderne Staat und der Kapitalismus 115, 146
+–,	Die moderne Staatsordnung und der
 Kapitalismus 39, 170
 –, Der sog. neue Mittelstand 153, 173
-–,	Objekt und logische Natur der
+–,	Objekt und logische Natur der
 Fragestellungen 27, 30, 35, 49, 59, 71,
 115, 146, 157
-–,	Ökonomische und gesellschaftliche
+–,	Ökonomische und gesellschaftliche
 Hemmungen des Kapitalismus 39,
 172
-–,	Ökonomische und soziale Aristokratie im kapitalistischen Zeitalter 39,
+–,	Ökonomische und soziale Aristokratie im kapitalistischen Zeitalter 39,
 170
-–,	Die Tendenzen zur inneren Umbildung des Kapitalismus 27, 45, 153 f.,
+–,	Die Tendenzen zur inneren Umbildung des Kapitalismus 27, 45, 153 f.,
 162
-–,	Wesen und gesellschaftliche Lage
+–,	Wesen und gesellschaftliche Lage
 der Arbeiterklasse 39, 153, 173
 –, Wirtschaft und Rasse 27, 42, 115, 145
 
@@ -11469,7 +11469,7 @@ Arbeit (1908/09) 14
 –, The Relations of the Rural Community to Other Branches of Social Science
 (1904/06) 5
 
-264
+264
 
 Register
 
@@ -11561,7 +11561,7 @@ Wygodzinski, Willy 151, 160 f., 189
 Zwiedineck-Südenhorst, Otto von 44,
 150, 153, 160, 162, 189, 251 f.
 
-Sachregister
+Sachregister
 
 Auf Sachbegriffe in den Texten des Herausgebers wird mit kursiven Seitenzahlen, in den
 Dokumenten mit geraden Seitenzahlen hingewiesen. Personenbezogene Angaben zu Max
@@ -11637,7 +11637,7 @@ Betriebswirtschaftslehre 38
 Beziehungen, soziale 127
 – Öffnung und Schließung der 118
 
-266
+266
 
 Register
 
@@ -11735,7 +11735,7 @@ Darstellung“  „Wirtschaft und Gesellschaft“ als „geschlossene soziolo
 Gesellschaft 24, 145
  auch: Wirtschaft und Gesellschaft
 
-Sachregister
+Sachregister
 Gesellschaftshandeln 56, 86
 Gesellschaftstheorie 79
 Gesetz
@@ -11834,7 +11834,7 @@ homo oeconomicus 22, 24, 47
 Honorar, Honorierung
 – der Mitarbeiter/Bearbeiter des Hand-
 
-268
+268
 
 Register
 
@@ -11935,7 +11935,7 @@ Marktpreise 77
 Marktvergemeinschaftung 80, 169
 Marktvergesellschaftung 51, 80, 119
 
-Sachregister
+Sachregister
 Marktverhältnisse als Machtverhältnisse
 81
 Materialismus  Geschichtsauffassung,
@@ -12034,7 +12034,7 @@ Preiskampf 126
 Preislehre 23
 Preistheorie 24, 77, 145
 
-270
+270
 
 Register
 
@@ -12140,7 +12140,7 @@ Soziallehre des Staates 67
 Sozialökonomik 51, 63, 80, 241
 – Methoden der 164
 
-Sachregister
+Sachregister
 Sozialphilosophie 49
 Sozialpolitik 13, 17, 38, 152 f., 172 f.
 Sozialtheorie (Stammlers) 49, 53
@@ -12246,7 +12246,7 @@ Theorie 12 f., 16 f., 23 f., 38, 40, 167 f.
  auch: Erkenntnis-; Gesellschafts-;
 Handlungs-; Ordnungs-; Preis-;
 
-272
+272
 
 Register
 
@@ -12293,7 +12293,7 @@ Verlagsverträge
 – für die Mitarbeiter/Mitherausgeber des
 Handbuchs/GdS 17, 197–218, 220
 – 1909 (Entwurf) 18 f., 198–202
-– 1910 25 f., 35, 71, 142, 183, 203–206,
+– 1910 25 f., 35, 71, 142, 183, 203–206,
 208–210
 
 - 1914 35, 71, 211–218
@@ -12345,7 +12345,7 @@ Werturteilsfreiheit 27
 Werturteilsstreit 54, 86
 Wirtschaft
 
-Sachregister
+Sachregister
 –, kapitalistische 128
 –, moderne kapitalistische 27, 35, 62, 146,
 169
@@ -12427,11 +12427,11 @@ Zweiteilungsthese 106
  auch: „Wirtschaft und Gesellschaft“,
 als Werk in zwei Teilen
 
-274
+274
 
 Register
 
-MWG Abteilung I: Aufbau und Editionsregeln
+MWG Abteilung I: Aufbau und Editionsregeln
 
 275
 
@@ -12467,7 +12467,7 @@ die thematische Angabe wird entweder ein Titel von Weber verwendet oder, wo
 dies wegen der Vielfalt der Texte nicht möglich ist, ein seinem Wortgebrauch
 nahestehender Titel neu gebildet. Jedem Bandtitel ist ferner eine Zeitangabe
 
-276
+276
 
 MWG Abteilung I: Aufbau und Editionsregeln
 
@@ -12511,7 +12511,7 @@ Band 6: 	 Zur Sozial- und Wirtschaftsgeschichte des Altertums
 Schriften und Reden 1893 – 1908
 Hg. von Jürgen Deininger; 2006
 
-MWG Abteilung I: Aufbau und Editionsregeln
+MWG Abteilung I: Aufbau und Editionsregeln
 
 Band 7: 	 Zur Logik und Methodik der Sozialwissenschaften
 Schriften 1900 – 1907
@@ -12562,7 +12562,7 @@ in Zusammenarbeit mit Birgitt Morgenbrod; 1992
 
 277
 
-278
+278
 
 MWG Abteilung I: Aufbau und Editionsregeln
 
@@ -12630,7 +12630,7 @@ Band 23: 
 Wirtschaft und Gesellschaft. Soziologie
 Unvollendet 1919 – 1920
 
-MWG Abteilung I: Aufbau und Editionsregeln
+MWG Abteilung I: Aufbau und Editionsregeln
 
 Band 24: 	
 
@@ -12666,7 +12666,7 @@ Edition“ gegliedert.
 5.1 „Zur Entstehung“
 Dieser Abschnitt skizziert die historisch-politischen, wissenschaftlichen und biographischen Zusammenhänge, in denen ein Text steht. Er stellt ferner seine Ent-
 
-280
+280
 
 MWG Abteilung I: Aufbau und Editionsregeln
 
@@ -12706,7 +12706,7 @@ mehr gebräuchlicher Lautstand, veraltete Orthographie und Interpunktion. In
 ­folgenden Fällen werden Texteingriffe ohne Nachweis im textkritischen Apparat
 vorgenommen:
 
-MWG Abteilung I: Aufbau und Editionsregeln
+MWG Abteilung I: Aufbau und Editionsregeln
 
 281
 
@@ -12746,7 +12746,7 @@ aufgeführt, bei Wiederholungen wird ein Kurztitel verwendet.
 Erläutert werden Ereignisse und Begriffe, deren Kenntnis für das Verständnis des
 Textes unerläßlich erscheint. Informationen über Personen finden sich im Perso-
 
-282
+282
 
 MWG Abteilung I: Aufbau und Editionsregeln
 
@@ -12784,7 +12784,7 @@ Erläuterungen gebrauchte Kurztitel.
 erwähnt, mit Ausnahme allgemein bekannter (z. B. Bismarck, Wilhelm II.) und
 in Literaturangaben genannter Personen. Es liefert die wichtigsten Lebensdaten, gibt die berufliche oder politische Stellung an und führt ggf. die verwandt-
 
-MWG Abteilung I: Aufbau und Editionsregeln
+MWG Abteilung I: Aufbau und Editionsregeln
 
 283
 
@@ -12818,7 +12818,7 @@ d) Das Zeichen  gibt die Stelle des Seitenwechsels nach der ursprünglichen
 Paginierung einer Textfassung wieder.
 e) Das Zeichen [ ] markiert Hinzufügungen zum Text durch den Editor.
 
-284
+284
 
 MWG Abteilung I: Aufbau und Editionsregeln
 
@@ -12860,7 +12860,7 @@ Hg. von Gerd Krumeich und M. Rainer Lepsius
 Band 10: Briefe 1918 –1920
 Band 11: Nachträge und Gesamtregister
 
-MWG Abteilung I: Aufbau und Editionsregeln
+MWG Abteilung I: Aufbau und Editionsregeln
 
 Bandfolge der Abteilung III: Vorlesungen und
 Vorlesungsnachschriften
@@ -12892,4 +12892,3 @@ Nachschriften 1920
 
 285
 
-
