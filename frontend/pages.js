@@ -10,13 +10,34 @@ const MASTERS = {
     description: '法国政治思想家，《论美国的民主》作者'
   },
   // 未来可添加更多大师
-  // weber: {
-  //   id: 'weber',
-  //   name: '韦伯',
-  //   nameEn: 'Weber',
-  //   avatar: '📚',
-  //   description: '德国社会学家，现代社会学奠基人之一'
-  // }
+  weber: {
+    id: 'weber',
+    name: '韦伯',
+    nameEn: 'Weber',
+    avatar: '📚',
+    description: '德国社会学家，现代社会学奠基人之一'
+  },
+  durkheim: {
+    id: 'durkheim',
+    name: '杜尔凯姆',
+    nameEn: 'Durkheim',
+    avatar: '🏛️',
+    description: '法国社会学家，社会事实理论创立者'
+  },
+  simmel: {
+    id: 'simmel',
+    name: '齐美尔',
+    nameEn: 'Simmel',
+    avatar: '🧩',
+    description: '德国社会学家，社会形式与社会互动理论创始人'
+  },
+  tonnies: {
+    id: 'tonnies',
+    name: '滕尼斯',
+    nameEn: 'Tonnies',
+    avatar: '🌐',
+    description: '德国社会学家，社区与社会理论创始人'
+  },
 };
 
 // Chat Page
